@@ -357,6 +357,11 @@
 </section>
 
 
+<!-- Contact Inputs section on all the pages + footer -->
+    <?php include 'contact_footer_all.php';?>
+
+
+
     <!-- jQuery -->
     
     <script type="text/javascript" src="build/scripts.js"></script>

@@ -1,0 +1,88 @@
+input:focus {
+	outline: none !important;
+}
+input:active {
+	outline: none !important;
+}
+textarea:focus {
+	outline: none !important;
+}
+textarea:active {
+	outline: none !important;
+}
+
+.contact_section_footer {
+	background-image: url('../img/backgorund/contact_input_bg-01.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 80px;
+	text-align: center;
+}
+.contact_section_footer p {
+	color: white;
+	font-size: 20px;
+	font-family: 'Montserrat-Bold';
+	padding-bottom: 20px;
+}
+.contact_section_footer input {
+	width: 100%;
+	background: white;
+	color: #ccc;
+	margin-bottom: 10px;
+	height: 35px;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.contact_section_footer textarea {
+	width: 100%;
+	color: #ccc;
+	margin-bottom: 10px;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+.contact_section_footer button {
+	width: 100%;
+	border-radius: 3px;
+	height: 35px;
+	background: transparent;
+	border: white solid 1px;
+	color: white;
+	font-family: 'Montserrat-Bold';
+	transition: ease-in-out all 0.3s
+}
+.contact_section_footer button:hover {
+	background-color: rgba(255, 255, 255, 0.32);
+	transition: ease-in-out all 0.3s
+}
+
+
+/* Footer Section Style here !!*/
+
+.footer_all_pages {
+	color: white; 
+	background-color: #212428; 
+	padding: 30px 0px 15px;
+}
+.copyright_s a {
+	text-decoration: none !important;
+	color: white !important; 
+}
+.copyright_s {
+	text-align: left;
+}
+
+.copyright_s p {
+	font-size: 16px;
+}
+
+.social_s {
+	text-align: right;
+}
+.social_s i{
+	color: white;
+	font-size: 20px;
+	padding-left: 10px;
+}
