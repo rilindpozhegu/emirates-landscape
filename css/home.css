@@ -1,0 +1,251 @@
+/****************************
+
+		  Home Style
+
+****************************/
+
+.home_first_section {
+	padding: 80px 0px;
+}
+.home_first_section h3 {
+	font-family: 'Montserrat-Bold';
+	font-size: 25px;
+}
+.home_first_section p {
+	font-size: 15px;
+}
+
+.home_first_section img {
+	margin-top: 10px;
+	width: 100%; 
+}
+
+/*Owl My Style*/
+
+.owl_slider_facts { 
+	background-image: url('../img/backgorund/our_work_bg.png');
+	background-position: center;
+	background-attachment: fixed;
+	/*background-repeat: no-repeat;*/
+	padding: 40px 0px;
+	color: white;
+}
+.owl_slider_facts h2 {
+	text-align: center;
+	font-family: 'Montserrat-Bold';
+}
+.owl_slider_facts span {
+	color: #D7A74B;
+}
+.owl_slider_facts p {
+	text-align: center;
+}
+.panel_testimonial1 {
+	text-align: center;
+	padding: 10px;
+}
+.panel_testimonial1 img {
+	width: 100%;
+}
+.panel_testimonial1 h5 {
+	font-family: 'Montserrat-Bold';	
+}
+
+.owl_slider_facts hr {
+	height: 2px;
+    background: #D7A74B;
+    font-size: 0;
+    border: 0;
+    padding-top: 1px;
+    width: 30%;
+}
+
+/*Counter Numbers My Edition*/
+
+.counter_section {     background-image:
+url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
+/*background-repeat: no-repeat;*/     padding: 60px 0px; }
+
+.counter_section {
+	text-align: center;
+}
+.counter_section h1 {
+	font-family: 'Montserrat-Bold';
+	color: #4D4E4E;	
+	margin-bottom: 30px;
+}
+.counter_section img {
+	width: 60%;
+}
+.counter_section span {
+	font-size: 35px;
+	font-family: 'Montserrat-Bold';
+	color: #4D4E4E;
+}
+.counter_section p {
+	font-size: 14px;
+}
+
+
+/*
+
+******  Operation & Maintenance ********
+
+*/
+.small_padding_left {
+	padding: 0px 10px 0px 0px;
+}
+.selection_section_home {
+ 	padding: 50px 0px;
+}
+
+.selection_section_home img {
+	width: 100%;
+	padding-top: 30px;
+}
+
+.tab-pane h3 {
+	font-family: 'Montserrat-Bold';
+	color: #4D4D4D;
+	margin-bottom: 20px;
+}
+
+.tab-pane p {
+	color: #B3B3B3;
+	font-size: 18px;
+	padding-top: 20px;
+}
+
+.tab_buttons_home button {
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 10px;
+	text-align: left;
+	border: solid 1px #ccc;
+	background-color: transparent;
+	color: #ccc;
+	font-family: 'Montserrat-Bold';
+	font-size: 12px;
+	border-radius: 3px;
+	transition: ease-in-out all 0.2s;
+}
+
+.tab_buttons_home button:hover {
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 10px;
+	text-align: left;
+	border: solid 1px #C93851;
+	background-color: #C93851;
+	color: white;
+	font-family: 'Montserrat-Bold';
+	font-size: 12px;
+	border-radius: 3px;
+	transition: ease-in-out all 0.2s;
+}
+
+.tab_buttons_home button:active {
+	border: solid 1px #C93851;
+	background-color: #C93851;
+	color: white;
+
+}
+
+.tab_buttons_home button:focus {
+	border: solid 1px #C93851;
+	background-color: #C93851;
+	color: white;
+
+}
+
+.tab_buttons_home button i {
+	float: right;
+	font-size: 16px;
+}
+
+
+
+
+
+/*
+
+****** EXTERNAL WORKS ********
+
+*/
+
+.external_works_section {	
+	background-image: url('../img/backgorund/external_bg-01.png');
+	background-position: center;
+	padding: 100px 0px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	color: white;
+	background-attachment: fixed;
+}
+
+.external_works_section h4 {
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+
+.external_works_section h1 {
+	margin-top: 5px; 
+	font-size: 45px;
+	font-family: 'Montserrat-Bold';
+}
+
+.external_works_section p {
+	font-size: 18px;
+}
+
+.external_works_section button {
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 10px;
+	text-align: left;
+	border: solid 1px #ccc;
+	height: 50px;
+	background-color: transparent;
+	color: #ccc;
+	font-family: 'Montserrat-Bold';
+	font-size: 12px;
+	border-radius: 3px;
+	transition: ease-in-out all 0.2s;
+}
+
+.external_works_section button:hover {
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 10px;
+	text-align: left;
+	border: solid 1px #C93851;
+	background-color: #C93851;
+	color: white;
+	font-family: 'Montserrat-Bold';
+	font-size: 12px;
+	border-radius: 3px;
+	transition: ease-in-out all 0.2s;
+
+}
+
+.external_works_section button i {
+	float: right;
+	font-size: 18px;
+}
+
+.external_works_section button:active {
+	border: solid 1px #C93851;
+	background-color: #C93851;
+	color: white;
+}
+
+.external_works_section button:focus {
+	border: solid 1px #C93851;
+	background-color: #C93851;
+	color: white;
+}
+
+.external_works_section .col-md-5 {
+	padding-top: 40px;
+}
