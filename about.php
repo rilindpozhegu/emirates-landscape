@@ -35,6 +35,16 @@
         <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact Us</button></a>
     </div>  
 
+        <!-- Header Mobile -->
+    <section class="header_mobile_about desktop-d-n">
+        <div class="container">
+            <div class="row">
+            <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Company Introduction</h1>
+            <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand<br>for high quality construction of outdoor recreation and horticultural facilities.</p>
+            <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact Us</button></a>
+            </div>
+        </div>
+    </section>
 
 <!-- Fist Section on the About Page -->
 
@@ -81,13 +91,13 @@
     <div class="container">
         <div class="row">
         <h1>Our Management</h1>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -96,13 +106,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -111,13 +121,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -126,13 +136,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -141,13 +151,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -156,13 +166,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -171,13 +181,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -186,13 +196,13 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 col-xs-12">
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
-                        <div class="col-md-3 no_padding">
+                        <div class="col-md-3 col-xs-4 no_padding">
                             <img src="img/managment/managment_img1-01.png">
                         </div>
-                        <div class="col-md-9 managment_panel_text">
+                        <div class="col-md-9 col-xs-8 managment_panel_text">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
                             <p><span>E:</span> jom@hededanmark.dk</p>            
@@ -201,6 +211,7 @@
                     </div>
                 </div>
             </div>
+            
         </div>
     </div>
 </section>

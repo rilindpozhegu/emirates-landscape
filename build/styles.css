@@ -1425,6 +1425,77 @@ Construction
 
 
 
+/*
+///////////////////////////////////////////////////
+				References
+///////////////////////////////////////////////////
+*/
+
+
+.header_mobile_references {
+	background-image: url('../img/slider/slide3-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_references h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_references p {
+	font-size: 20px;
+}
+.header_mobile_references button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+}
+
+.fist_section_references {
+	padding: 20px 10px;
+}
+
+
+
+
+
+/*
+///////////////////////////////////////////////////
+					  NEWS
+///////////////////////////////////////////////////
+*/
+
+
+.header_mobile_news {
+	background-image: url('../img/slider/slide3-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_news h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_news p {
+	font-size: 20px;
+}
+.header_mobile_news button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+}
+
+.news_section_page {
+	padding: 20px 10px;
+}
 
 
 
@@ -1432,16 +1503,43 @@ Construction
 
 
 
+/*
+///////////////////////////////////////////////////
+					  ABOUT
+///////////////////////////////////////////////////
+*/
 
 
+.header_mobile_about {
+	background-image: url('../img/slider/slide7-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_about h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_about p {
+	font-size: 20px;
+}
+.header_mobile_about button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+}
 
+.news_section_page {
+	padding: 20px 10px;
+}
 
-
-
-
-
-
-
+.managment_panel_text {
+	padding: 10px;
+}
 
 
 

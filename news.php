@@ -30,11 +30,21 @@
 
   <!-- Text Inside Slider -->
     <div class="logo-slider-over col-md-12 container mobile-d-n">
-        <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">QHSE Policy & Corporate Objectives</h1>
-        <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">In order to achieve the below subjects and ensure all, procedures are developed and performed in the most efficient<br> way, Emirates Landscape LLC is ISO certified with both ISO-9001:2008, ISO-14001:2004 and<br> ISO-18001:2008.</p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
+        <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
+        <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Click "Read more" to find futher information and photos from the project. </p>
+        <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
     </div>  
 
+        <!-- Header Mobile -->
+    <section class="header_mobile_news desktop-d-n">
+        <div class="container">
+            <div class="row">
+              <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
+            <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Click "Read more" to find futher information and photos from the project.  </p>
+            <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
+            </div>
+        </div>
+    </section>
 <!-- First Seciton on the News Page on the Wbsite -->
 
 <section class="news_section_page">
