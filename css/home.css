@@ -249,3 +249,51 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 .external_works_section .col-md-5 {
 	padding-top: 40px;
 }
+
+
+
+/*Lastest News*/
+
+.lastest_news_section_home {
+	padding: 60px 0px;
+}
+
+.lastest_news_section_home img {
+	width: 100%;
+}
+
+.date_number {
+	background-color: #C93851;
+	color: white;
+	width: 60px;
+	text-align: center;
+	height: 90px;
+	padding-top: 10px;
+	font-size: 20px;
+	position: absolute;
+	bottom: 220px;
+}
+
+.date_number span {
+	font-family: 'Montserrat-Bold';
+	font-size: 30px;
+}
+
+.lastest_news_section_home h5 {
+	font-family: 'Montserrat-Bold';
+	text-align: center;
+	font-size: 19px;
+}
+.lastest_news_section_home p {
+	color: #B3B3B3;
+}
+
+.lastest_news_section_home button {
+	background-color: #C93851;
+	color: white;
+	font-family: 'Montserrat-Bold';
+	border:none;
+	border-radius: 3px;
+	width: 160px;
+	height: 30px;
+}

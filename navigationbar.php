@@ -16,31 +16,31 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="#" href="#">HOME</a>
+                        <a class="#" href="index">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="#">OPERATION AND MAINTENANCE</a>
+                        <a class="#" href="operation-and-maintenance">OPERATION AND MAINTENANCE</a>
                     </li>
                     <li>
-                        <a class="#" href="">CONSTRUCTION</a>
+                        <a class="#" href="constructin">CONSTRUCTION</a>
                     </li>
                     <li>
-                        <a class="#" href="">QHSE</a>
+                        <a class="#" href="qhse">QHSE</a>
                     </li>
                     <li>
-                        <a class="#" href="">REFERENCES</a>
+                        <a class="#" href="references">REFERENCES</a>
                     </li>
                     <li>
-                        <a class="#" href="">NEWS</a>
+                        <a class="#" href="news">NEWS</a>
                     </li>
                     <li>
-                        <a class="#" href="">CAREER</a>
+                        <a class="#" href="career">CAREER</a>
                     </li>
                     <li>
-                        <a class="#" href="">ABOUT</a>
+                        <a class="#" href="about">ABOUT</a>
                     </li>
                     <li>
-                        <a class="#" href="">CONTACT</a>
+                        <a class="#" href="contact">CONTACT</a>
                     </li>
                 </ul>
             </div>

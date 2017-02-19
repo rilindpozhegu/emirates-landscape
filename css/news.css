@@ -1,0 +1,53 @@
+/*******************************************
+
+            NEWS Style ALL PAGE		
+
+*******************************************/
+
+.news_section_page {
+	background-image: url('../img/backgorund/forth_page_f_bg-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 90px 15px;
+}
+
+
+.big_panel_news img {
+	width: 100%;
+}
+.big_panel_news {
+	margin: 15px 0px;
+	background: white;
+}
+
+.text_news_panel {
+	padding: 30px; 
+}
+.text_news_panel span {
+	color: #4D4D4D;
+}
+
+.text_news_panel hr {
+  border: 0; 
+  border-style: solid; 
+  border-color: #D7A74B; 
+  border-width: 2px 0 0 0; 
+  width: 30%;
+  height: 10px;
+  margin: 0px 0px;
+}
+
+.text_news_panel h3 {
+	font-family: 'Montserrat-Bold';
+}
+
+.text_news_panel button {
+    background-color: #D7A74B;
+    color: white;
+    font-family: 'Montserrat-Bold';
+    font-size: 11px;
+    margin: 15px 0px;
+    border: none;
+    height: 25px;
+    width: 100px;
+}

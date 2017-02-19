@@ -11,7 +11,7 @@
 
     <title>Emirates Landscape</title>
 
-    <!-- Bootstrap Core CSS -->
+    <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="build/styles.css">
 
@@ -20,14 +20,14 @@
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
-    <!-- Navigation -->
-
    <!-- Navigation -->
     <?php include 'navigationbar.php';?>
 
 
     <!-- Slider -->
     <?php include 'slider_top.php';?>
+
+
   <!-- Text Inside Slider -->
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
@@ -168,22 +168,22 @@
             <div class="row">
                 <div class="col-md-2"></div>
                 <div class="col-md-2 col-xs-6">
-                    <img src="img/facts_icons/fa_icon1-01.svg"> <br>
+                    <img src="img/facts_icons/fa_icon1-01.svg"><br>
                         <span class="counter" style="display: inline-block; width: 32%">17</span>
                     <p>YEARS OF EXPERIENCE</p>
                 </div>
                 <div class="col-md-2 col-xs-6">
-                    <img src="img/facts_icons/fa_icon2-01.svg"> <br>
+                    <img src="img/facts_icons/fa_icon2-01.svg"><br>
                         <span class="counter" style="display: inline-block; width: 32%">993</span>
                     <p>PREVIOUS PROJECTS</p>
                 </div>
                 <div class="col-md-2 col-xs-6">
-                    <img src="img/facts_icons/fa_icon3-01.svg"> <br>
+                    <img src="img/facts_icons/fa_icon3-01.svg"><br>
                         <span class="counter" style="display: inline-block; width: 32%">500</span>
                     <p>CLIENTS IN TOTAL</p>
                 </div>
                 <div class="col-md-2 col-xs-6">
-                    <img src="img/facts_icons/fa_icon4-01.svg"> <br>
+                    <img src="img/facts_icons/fa_icon4-01.svg"><br>
                        <span style="display: inline-block; width: 32%"><span class="counter">60</span><span>%</span></span> 
                     <p>CLIENT RETURN RATE</p>
                 </div>
@@ -356,6 +356,36 @@
     </div>
 </section>
 
+<!-- lastest News -->
+
+<section class="lastest_news_section_home">
+    <div class="container">
+        <div class="row">
+            <h3>Lastest News</h3>
+            <p>Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
+            <div class="col-md-6">
+                <img src="img/news_img-01.png">
+                <div class="date_number">
+                    <span>30</span><br>MAY
+                </div>
+                <h5>Emirates Landscape expanding to Dubai</h5>
+                <p>Our existing clients in Abu Dhabi – such as sheikhs, hotel chains, main contactors, consultants etc. have often requested quotations for their Landscape & Irrigation Projects in Dubai – either regarding construction of new areas or operation & maintenance of an existing project, as we are renowned for our quality and reliability.</p>
+                <p>We are aware of the fact that competition in Dubai is challenging, but the total market has a substantial potential so we are confident that we shall succeed in Dubai.</p>
+                <button>Read More</button>
+            </div>
+            <div class="col-md-6">
+                <img src="img/news_img-01.png">
+                <div class="date_number">
+                    <span>30</span><br>MAY
+                </div>
+                <h5>Emirates Landscape expanding to Dubai</h5>
+                <p>Our existing clients in Abu Dhabi – such as sheikhs, hotel chains, main contactors, consultants etc. have often requested quotations for their Landscape & Irrigation Projects in Dubai – either regarding construction of new areas or operation & maintenance of an existing project, as we are renowned for our quality and reliability.</p>
+                <p>We are aware of the fact that competition in Dubai is challenging, but the total market has a substantial potential so we are confident that we shall succeed in Dubai.</p>
+                <button>Read More</button>
+            </div>
+        </div>
+    </div>
+</section>
 
 <!-- Contact Inputs section on all the pages + footer -->
     <?php include 'contact_footer_all.php';?>
@@ -363,21 +393,8 @@
 
 
     <!-- jQuery -->
-    
     <script type="text/javascript" src="build/scripts.js"></script>
 
-    <script type="text/javascript">
-         $(document).ready(function() {
-          $("#owl-demo").owlCarousel({
-            autoPlay: 6000,
-            items : 4,
-            itemsDesktop : [1199,3],
-            itemsDesktopSmall : [1199,3]
-          });
-
-        });
-
-    </script>   
 </body>
 
 </html>

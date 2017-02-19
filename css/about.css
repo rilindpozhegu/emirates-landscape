@@ -1,0 +1,72 @@
+/*******************************/
+
+/*			About Page         */
+
+/*******************************/
+
+.first_section_about {
+	padding: 70px 0px; 
+}
+
+.first_section_about img {
+	width: 100%;
+}
+
+.first_section_about hr {
+	border: 0;
+    border-style: solid;
+    border-color: #CCC;
+    border-width: 2px 0 0 0;
+    width: 100%;
+    margin: 20px 0px;
+}
+
+.map_section_about p {
+	font-family: 'Montserrat-Bold';
+	font-size: 19px;
+}
+
+.our_managment_section {
+	background-image: url('../img/backgorund/forth_page_f_bg-01.png');
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 50px 0px;
+}
+
+.our_managment_section h1 {
+	font-family: 'Montserrat-Bold';
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.managment_panel_main {
+	background-color: white !important;
+	padding: 0px 15px;
+	margin: 15px 0px;
+}
+.managment_panel img {
+	width: 100%;
+}
+
+.managment_panel_text {
+	background-image: url('../img/testimonial_text-01.png');
+	padding: 30px 30px 20px 50px;
+	background-position: 85% 40%;
+}
+
+.managment_panel_text h5 {
+	font-family: 'Montserrat-Bold';
+	margin-bottom: 0px;
+	font-size: 18px;
+	color: #EDC231;
+}
+
+.managment_panel_text p {
+	font-size: 16px;
+}
+
+.managment_panel_text p span {
+	color: #EDC231; 
+	font-family: 'Montserrat-Bold';
+}

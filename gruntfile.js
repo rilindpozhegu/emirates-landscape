@@ -17,7 +17,9 @@ module.exports = function(grunt) {
 
 					'js/waypoints.min.js',
 					'js/jquery.counterup.min.js',
-					'js/number-c.js'
+					'js/number-c.js',
+
+					'js/owl_time.js'
 					],
 
 				dest: 'build/scripts.js'

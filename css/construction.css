@@ -1,0 +1,61 @@
+/*******************************************
+
+        	Construction Page Style		
+
+*******************************************/
+
+
+.construction_title {
+	padding: 10px 0px 20px;
+	text-align: center;
+}
+.construction_title h3 {
+	color: #4D4D4D;
+	font-family: 'Montserrat-Bold';
+	font-size: 25px;
+}
+.construction_title p {
+	color: #4D4D4D;
+}
+
+
+
+.small_marign_h {
+	margin: 0px 10px;
+	text-align: center;
+	padding: 0px;
+}
+
+
+.first_section_thirdp {	
+	background-image: url('../img/backgorund/facts_bg-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 60px;
+	text-align: center;
+}
+
+
+.first_section_thirdp img {
+	width: 100%;
+	transition: ease-in-out all 0.3s;
+}
+.first_section_thirdp img:hover {
+	opacity: .5;
+	transition: ease-in-out all 0.3s;
+}
+
+
+.first_section_thirdp p {
+	font-size: 12px;
+    font-family: 'Montserrat-Bold';
+    padding-top: 15px;
+}
+
+
+
+/*Second Section on the Third page !*/
+
+.second_section_thirdp img {
+	width: 100%;
+}

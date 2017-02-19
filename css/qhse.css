@@ -1,0 +1,77 @@
+/*******************************************
+
+            QHSE Style ALL PAGE		
+
+*******************************************/
+
+
+.panels_title_fourthpage {
+	text-align: center;
+	padding-bottom: 30px;
+}
+.panels_title_fourthpage h2{
+	font-family: 'Montserrat-Bold';
+}
+.panels_title_fourthpage p {
+	color: #4D4D4D;
+}
+
+.first_section_forthp {
+	background-image: url('../img/backgorund/forth_page_f_bg-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 90px 15px;
+}
+
+.forthp_panel {
+	background-color: white;
+	padding: 10px 20px;
+	margin: 10px 0px;
+	height: 220px;
+}
+
+.forthp_panel h1 {
+	color: #C93851;
+    font-family: 'Montserrat-Bold';
+    font-size: 40px;
+}
+
+.forthp_panel p {
+	color: #999999;
+}
+
+.forthp_panel button {
+	background-color: #C93851;
+	color: white;
+	border: none;
+	border-radius: 3px;
+	width: 250px;
+	height: 35px;
+	font-size: 11px;
+	font-family: 'Montserrat-Bold';
+}
+
+.second_section_forth {
+	padding: 90px 15px;
+}
+.forthp_panel2 {	
+	background-color: white;
+	padding: 10px 20px;
+	margin: 10px 0px;
+	height: 220px;
+	border: solid 1px #CCCCCC;
+}
+
+.forthp_panel2 h1 {
+	color: #EDC231;
+    font-family: 'Montserrat-Bold';
+    font-size: 40px;
+}
+
+.forthp_panel2 p {
+	color: #999999;
+}
+
+.panel_f_last {
+	height: 150px;
+}

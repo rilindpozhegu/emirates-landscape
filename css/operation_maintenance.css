@@ -1,0 +1,61 @@
+/*******************************************
+
+          OPERATION AND MAINTENANCE 		
+
+*******************************************/
+
+
+/*Fist paragraph on the Second page after the slider (icons)*/
+.first_section_ndpage {
+	background-image: url('../img/backgorund/facts_bg-01.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 60px;
+}
+.first_section_ndpage p {
+	font-size: 12px;
+    font-family: 'Montserrat-Bold';
+    padding-top: 15px;
+}
+.small_marign_h {
+	margin: 0px 10px;
+	text-align: center;
+	padding: 0px;
+}
+
+.first_section_ndpage img:hover {
+	opacity: .5;
+	transition: ease-in-out all 0.3s;
+}
+
+/*Second Section on the second page*/
+
+.secont_section_ndpage {
+	padding: 50px 0px;
+}
+.secont_section_ndpage img {
+	width: 100%;
+}
+.secont_section_ndpage h3 {
+	font-family:  'Montserrat-Bold';
+	font-size: 20px;
+	color: #4D4D4D;
+}
+.nd_page_img_panel {
+	padding: 15px 10px;
+}
+
+.operation_title {
+	padding: 10px 0px 20px;
+	text-align: center;
+}
+
+.operation_title h3 {
+	color: #4D4D4D;
+	font-family: 'Montserrat-Bold';
+	font-size: 25px;
+}
+
+.operation_title p {
+	color: #4D4D4D;
+}
