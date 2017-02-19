@@ -124,6 +124,152 @@ HomePage
 	padding: 30px 10px;
 }
 
+/*CONTACT FOOTER*/
+
+.contact_section_footer {
+	padding: 30px 10px;
+}
+
+.copyright_s {
+	display: none;
+}
+.social_s {
+	text-align: center !important;
+	padding-bottom: 10px;
+}
+
+
+
+
+/*
+///////////////////////////////////////////////////
+OPERATION AND MAINTENANCE
+///////////////////////////////////////////////////
+*/
+.header_mobile_opeartion {
+	background-image: url('../img/slider/slide2-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_opeartion h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_opeartion p {
+	font-size: 20px;
+}
+.header_mobile_opeartion button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.small_marign_h {
+	margin: 0px;
+}
+
+.first_section_ndpage img {
+	width: 60%;
+}
+
+
+/*
+///////////////////////////////////////////////////
+Construction
+///////////////////////////////////////////////////
+*/
+
+
+
+.header_mobile_construction {
+	background-image: url('../img/slider/slide5-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_construction h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_construction p {
+	font-size: 20px;
+}
+.header_mobile_construction button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.first_section_thirdp img {
+	width: 60%;
+}
+
+
+
+
+/*
+///////////////////////////////////////////////////
+					QHSE
+///////////////////////////////////////////////////
+*/
+
+
+.header_mobile_qhse {
+	background-image: url('../img/slider/slide4-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_qhse h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_qhse p {
+	font-size: 20px;
+}
+.header_mobile_qhse button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+}
+.first_section_forthp {
+	padding: 20px 10px;
+} 
+.second_section_forth {
+	padding: 20px 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

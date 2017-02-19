@@ -35,28 +35,41 @@
         <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
     </div>  
 
+
+    <!-- Header Mobile -->
+    <section class="header_mobile_construction desktop-d-n">
+        <div class="container">
+            <div class="row">
+               <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">External Works - Construction</h1>
+                <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape strives to deliver projects ON Time, ON Budget and to produce a<br>high finishing standard in order to comply with our client’s requirement.</p>
+                <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
+            </div>
+        </div>
+    </section>
+
+
 <!-- Third Page first section with icons -->
 <section class="first_section_thirdp">
     <div class="container">
         <div class="row">
             <div class="col-md-3"></div>
-            <div class="col-md-1 small_marign_h">
+            <div class="col-md-1 col-xs-6 small_marign_h">
                 <img src="img/facts_icons/fa_icon8-01.svg">
                 <p>Soft Landscaping</p>
             </div>
-            <div class="col-md-1 small_marign_h">
+            <div class="col-md-1 col-xs-6 small_marign_h">
                 <img src="img/facts_icons/fa_icon2-01.svg">
                 <p>Irrigation Solutions</p>
             </div>
-            <div class="col-md-1 small_marign_h">
+            <div class="col-md-1 col-xs-6 small_marign_h">
                 <img src="img/facts_icons/fa_icon10-01.svg">
                 <p>Hard Landscaping</p>
             </div>
-            <div class="col-md-1 small_marign_h">
+            <div class="col-md-1 col-xs-6 small_marign_h">
                 <img src="img/facts_icons/fa_icon11-01.svg">
                 <p>External Lighting</p>
             </div>
-            <div class="col-md-1 small_marign_h">
+            <div class="col-md-1 col-xs-6 small_marign_h">
                 <img src="img/facts_icons/fa_icon12-01.svg">
                 <p> Water Features</p>
             </div>
