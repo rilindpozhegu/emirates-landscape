@@ -923,11 +923,6 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 	height: 25px;
 	width: 100px;
 }
-/*!
- * Start Bootstrap - Scrolling Nav (http://startbootstrap.com/)
- * Copyright 2013-2016 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
 /*====================================*/
 
 /*        -EMIRATES GRAPHIC-          */
@@ -939,7 +934,7 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 
 
 /*====================*/
-/*       FONTS        */
+/*       FONTS        */ 
 /*====================*/
 
 
@@ -1171,4 +1166,139 @@ Responsive Part
     .mobile-d-n {
         display: none !important;
     }
+}
+
+
+
+
+
+
+/*
+///////////////////////////////////////////////////
+Responsive Part  ALL PAGES
+///////////////////////////////////////////////////
+*/
+
+/*Scrolling Navigationbar*/
+
+@media only screen and (min-width: 844px) {
+    .desktop-d-n {
+        display: none;
+    }
+}
+
+/*Mobile Version*/
+
+@media only screen and (max-width: 844px) {
+    .mobile-d-n {
+        display: none !important;
+    }
+    .navbar-header img {
+    	width: 100px;
+    	float: right;
+    	margin-right: 15px;
+    }
+    .navbar-header button {
+    	float: left;
+    	border: none;
+    	background-color: transparent;
+    	margin: 15px 0px 0px 15px
+    }
+    .top-nav-collapse .brand_logo {
+    	padding: 0px !important;
+    }
+    .top-nav-collapse img {
+    	padding: 0px;
+    }
+    .navbar-header button:hover {
+    	background-color: transparent !important;
+    }
+    .navbar-header button:active {
+    	background-color: transparent !important;
+    }
+    .navbar-header button:focus {
+    	background-color: transparent !important;
+    }
+	.navbar-nav li {
+	    padding-top: 0px !important;
+	    transition: ease-in-out all 0.3s;
+	    text-align: center;
+	}
+
+
+
+
+
+
+/*
+///////////////////////////////////////////////////
+HomePage
+///////////////////////////////////////////////////
+*/
+
+.header_mobile_home {
+	background-image: url('../img/slider/slide1-01.png');
+	height: 100vh;
+	background-size: cover;
+	background-position: 80% 40%;
+	color: white;
+	padding: 100px 10px;
+}
+.header_mobile_home h1 {
+	font-size: 50px;
+	font-family: 'Montserrat-Bold';
+}
+.header_mobile_home p {
+	font-size: 20px;
+}
+.header_mobile_home button {
+	background-color: #C93851;
+    border: none;
+    color: white;
+    width: 140px;
+    height: 40px;
+    margin-top: 20px;
+}
+.home_first_section {
+	padding: 20px 10px;
+}
+.owl_slider_facts {
+	padding: 20px 10px;
+}
+.selection_section_home {
+	padding: 20px 10px;
+}
+.lastest_news_section_home {
+	padding: 20px 10px;
+}
+.date_number {
+    background-color: #C93851;
+    color: white;
+    width: 60px;
+    text-align: center;
+    height: 90px;
+    padding-top: 10px;
+    font-size: 20px;
+    position: absolute;
+    bottom: 360px;
+}
+.lastest_news_section_home h3 {
+	padding: 0px 10px;
+}
+.lastest_news_section_home p {
+	padding: 0px 10px;
+}
+
+.news_panel_home_p {
+	padding: 30px 10px;
+}
+
+
+
+
+
+
+
+
+
 }

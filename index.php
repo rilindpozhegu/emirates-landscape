@@ -32,9 +32,19 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the <br> growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
+        <a href="about"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
+    <!-- Header Mobile -->
+    <section class="header_mobile_home desktop-d-n">
+        <div class="container">
+            <div class="row">
+                <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
+                <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the <br> growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
+                <a href="about"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
+            </div>
+        </div>
+    </section>
 
     <!-- Home Page First Section there! -->
 
@@ -363,7 +373,7 @@
         <div class="row">
             <h3>Lastest News</h3>
             <p>Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-            <div class="col-md-6">
+            <div class="col-md-6 news_panel_home_p">
                 <img src="img/news_img-01.png">
                 <div class="date_number">
                     <span>30</span><br>MAY
@@ -373,7 +383,7 @@
                 <p>We are aware of the fact that competition in Dubai is challenging, but the total market has a substantial potential so we are confident that we shall succeed in Dubai.</p>
                 <button>Read More</button>
             </div>
-            <div class="col-md-6">
+            <div class="col-md-6 news_panel_home_p">
                 <img src="img/news_img-01.png">
                 <div class="date_number">
                     <span>30</span><br>MAY
