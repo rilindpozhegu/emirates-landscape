@@ -24,6 +24,8 @@
 .map_section_about p {
 	font-family: 'Montserrat-Bold';
 	font-size: 19px;
+	margin: 20px 0px;
+	text-align: center;
 }
 
 .our_managment_section {
@@ -69,4 +71,8 @@
 .managment_panel_text p span {
 	color: #EDC231; 
 	font-family: 'Montserrat-Bold';
+}
+
+ .maps iframe{
+    pointer-events: none;
 }

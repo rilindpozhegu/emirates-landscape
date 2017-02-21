@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="">
+<!-- Tab Logo -->
+    <link rel="icon" href="img/fav_icon-01.png">
 
     <title>Emirates Landscape</title>
 
@@ -19,7 +21,13 @@
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
+<style type="text/css">
+    .active6 {
+          background-color: #C93851 !important;
+          color: white !important;
+          transition: ease-in-out all 0.2s;
+    }
+</style>
    <!-- Navigation -->
     <?php include 'navigationbar.php';?>
 
@@ -32,7 +40,7 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Click "Read more" to find futher information and photos from the project. </p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
+        <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
     </div>  
 
         <!-- Header Mobile -->
@@ -41,7 +49,7 @@
             <div class="row">
               <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
             <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Click "Read more" to find futher information and photos from the project.  </p>
-            <a href="about_us"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
+            <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
             </div>
         </div>
     </section>
@@ -50,7 +58,7 @@
 <section class="news_section_page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="big_panel_news row">
                     <div class="col-md-6 no_padding">
                         <img src="img/references_panel_img-01.png">
@@ -64,7 +72,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                 <div class="big_panel_news row">
                     <div class="col-md-6 text_news_panel">
                         <span>28-10-2015</span>
@@ -78,7 +86,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                 <div class="big_panel_news row">
                     <div class="col-md-6 no_padding">
                         <img src="img/references_panel_img-01.png">
@@ -92,7 +100,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12">
+            <div class="col-md-12 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                 <div class="big_panel_news row">
                     <div class="col-md-6 text_news_panel">
                         <span>28-10-2015</span>

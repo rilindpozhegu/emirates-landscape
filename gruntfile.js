@@ -12,14 +12,14 @@ module.exports = function(grunt) {
 					'js/bootstrap.min.js', 
 					'js/scrolling-nav.js', 
 					'js/owl.carousel.js', 
-					
-					'js/general.js',
 
 					'js/waypoints.min.js',
 					'js/jquery.counterup.min.js',
 					'js/number-c.js',
 
-					'js/owl_time.js'
+					'js/owl_time.js',
+					'js/wow.min.js',
+					'js/animate.js'
 					],
 
 				dest: 'build/scripts.js'

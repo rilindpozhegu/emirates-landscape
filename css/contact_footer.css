@@ -33,6 +33,7 @@ textarea:active {
 	height: 35px;
 	border-radius: 3px;
 	padding: 10px;
+	border:none;
 }
 
 .contact_section_footer textarea {

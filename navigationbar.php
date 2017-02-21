@@ -16,31 +16,25 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="#" href="index">HOME</a>
+                        <a class="active1 hover_effect" href="index">HOME</a>
                     </li>
                     <li>
-                        <a class="#" href="operation-and-maintenance">OPERATION AND MAINTENANCE</a>
+                        <a class="active2 hover_effect" href="operation-and-maintenance">OPERATION AND MAINTENANCE</a>
                     </li>
                     <li>
-                        <a class="#" href="constructin">CONSTRUCTION</a>
+                        <a class="active3 hover_effect" href="constructin">CONSTRUCTION</a>
                     </li>
                     <li>
-                        <a class="#" href="qhse">QHSE</a>
+                        <a class="active4 hover_effect" href="qhse">QHSE</a>
                     </li>
                     <li>
-                        <a class="#" href="references">REFERENCES</a>
+                        <a class="active5 hover_effect" href="references">REFERENCES</a>
                     </li>
                     <li>
-                        <a class="#" href="news">NEWS</a>
+                        <a class="active6 hover_effect" href="news">NEWS</a>
                     </li>
                     <li>
-                        <a class="#" href="career">CAREER</a>
-                    </li>
-                    <li>
-                        <a class="#" href="about">ABOUT</a>
-                    </li>
-                    <li>
-                        <a class="#" href="contact">CONTACT</a>
+                        <a class="active7 hover_effect" href="about">ABOUT</a>
                     </li>
                 </ul>
             </div>

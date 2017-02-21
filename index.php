@@ -11,6 +11,10 @@
 
     <title>Emirates Landscape</title>
 
+<!-- Tab Logo -->
+    <link rel="icon" href="img/fav_icon-01.png">
+
+
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="build/styles.css">
@@ -19,10 +23,16 @@
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
-
+<style type="text/css">
+    .active1 {
+          background-color: #C93851 !important;
+          color: white !important;
+          transition: ease-in-out all 0.2s;
+    }
+</style>
    <!-- Navigation -->
     <?php include 'navigationbar.php';?>
-
+    <script language="javascript">setPage()</script>
 
     <!-- Slider -->
     <?php include 'slider_top.php';?>
@@ -32,7 +42,7 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the <br> growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-        <a href="about"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
+        <a href="about"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
     <!-- Header Mobile -->
@@ -41,7 +51,7 @@
             <div class="row">
                 <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
                 <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the <br> growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-                <a href="about"><button class="slider-top-button wow bounceIn all_btn_hover" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
+                <a href="about"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
             </div>
         </div>
     </section>
@@ -52,12 +62,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <h3>Welcome to <br> Emirates Landscape.</h3>
-                    <p>It is a privilege for me to welcome you to our world of landscaping. Being established in the year 2000, we are now the product of always striving to be the best. Every day has its new challenges, and we take nothing for granted. Our team is dedicated and consists of experienced staff with different educational background (horticulture, irrigation, civil engineering, etc.) in order to serve you in the best professional way.</p>
+                    <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Welcome to <br> Emirates Landscape.</h3>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">It is a privilege for me to welcome you to our world of landscaping. Being established in the year 2000, we are now the product of always striving to be the best. Every day has its new challenges, and we take nothing for granted. Our team is dedicated and consists of experienced staff with different educational background (horticulture, irrigation, civil engineering, etc.) in order to serve you in the best professional way.</p>
 
-                    <p>Hope you will find all necessary information in this Company Profile – and let us know how we can comply with your specific requirement! It’s all about people!</p>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Hope you will find all necessary information in this Company Profile – and let us know how we can comply with your specific requirement! It’s all about people!</p>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <img src="img/home_img1-01.png">
                 </div>
             </div>
@@ -70,9 +80,9 @@
 <section class="owl_slider_facts">
     <div class="container">
         <div class="row">
-        <h2>Our <span>Work</span></h2>
-        <p>Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-            <div id="owl-demo" class="owl-carousel">     
+        <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Our <span>Work</span></h2>
+        <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
+            <div id="owl-demo" class="owl-carousel wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">     
 
                 <div class="item item-mobile">               
                     <div class="panel_testimonial1">
@@ -174,25 +184,25 @@
     
     <section class="counter_section">
         <div class="container">
-        <h1>Statistics</h1>
+        <h1  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Statistics</h1>
             <div class="row">
                 <div class="col-md-2"></div>
-                <div class="col-md-2 col-xs-6">
+                <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/facts_icons/fa_icon1-01.svg"><br>
                         <span class="counter" style="display: inline-block; width: 32%">17</span>
                     <p>YEARS OF EXPERIENCE</p>
                 </div>
-                <div class="col-md-2 col-xs-6">
+                <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                     <img src="img/facts_icons/fa_icon2-01.svg"><br>
                         <span class="counter" style="display: inline-block; width: 32%">993</span>
                     <p>PREVIOUS PROJECTS</p>
                 </div>
-                <div class="col-md-2 col-xs-6">
+                <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <img src="img/facts_icons/fa_icon3-01.svg"><br>
                         <span class="counter" style="display: inline-block; width: 32%">500</span>
                     <p>CLIENTS IN TOTAL</p>
                 </div>
-                <div class="col-md-2 col-xs-6">
+                <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <img src="img/facts_icons/fa_icon4-01.svg"><br>
                        <span style="display: inline-block; width: 32%"><span class="counter">60</span><span>%</span></span> 
                     <p>CLIENT RETURN RATE</p>
@@ -217,7 +227,7 @@
                     But irrigation operation includes more than just opening and closing the water flow. The adjustment of sprinklers and monitoring of water consumption are also among important services.
                   </p>
                   </div>
-                  <div class="col-md-5 mobile-d-n wow fadeInRight" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion1-01.png">
                   </div>
                 </div>
@@ -226,7 +236,7 @@
                   <h3>Lawns</h3>
                   <p>Operation of the irrigation system is an important task due to the climate. <br> But irrigation operation includes more than just opening and closing the water flow. The adjustment of sprinklers and monitoring of water consumption are also among important services.</p>
                   </div>
-                  <div class="col-md-5 mobile-d-n wow fadeInRight" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion2-01.png">
                   </div>
                 </div> 
@@ -235,7 +245,7 @@
                   <h3>Hedges, Shrubs & Trees</h3>
                   <p>Each species has its own type of trimming or pruning to give the best appearance and flowering.</p>
                   </div>
-                  <div class="col-md-5 mobile-d-n wow fadeInRight" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion3-01.png">
                   </div>
                 </div>  
@@ -244,7 +254,7 @@
                   <h3>Palms</h3>
                   <p>Palms have always been an important element of the landscape in the region. Not only because of the iconic shape but also the supply of dates.</p>
                   </div>
-                  <div class="col-md-5 mobile-d-n wow fadeInRight" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion4-01.png">
                   </div>
                 </div>              
@@ -254,7 +264,7 @@
                   <h3>Ground Covers</h3>
                   <p>Different species require different maintenance.</p>
                   </div>
-                  <div class="col-md-5 mobile-d-n wow fadeInRight" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion5-01.png">
                   </div>
                 </div>  
@@ -263,14 +273,14 @@
                   <h3>Flowers</h3>
                   <p>Annual flowers have to be replaced frequently in order to ensure optimum flowering throughout the year.</p>
                   </div>
-                  <div class="col-md-5 mobile-d-n wow fadeInRight" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion6-01.png">
                   </div>
                 </div>  
               </div>
             </div>
 
-            <div class="tab_buttons_home col-md-7 col-xs-12 no_padding">
+            <div class="tab_buttons_home col-md-12 col-xs-12 no_padding" style="padding-top: 20px;">
             
                 <div class="col-md-4 small_padding_left">
                     <a href="#menu1" data-toggle="tab" class="active  wow zoomIn" data-wow-duration="1s" data-wow-delay="0.6s"><button>Irrigation <i class="fa fa-angle-right"></i></button></a>           
@@ -296,7 +306,7 @@
 
 <!-- External Works -->
 
-<section class="external_works_section mobile-d-n">
+<section class="external_works_section">
     <div class="container">
         <div class="row">
 
@@ -356,11 +366,11 @@
 
         </div>    
             <div class="col-md-5">
-                <a href="#menu7" data-toggle="tab"><button>Soft Construction <i class="fa fa-angle-right"></i></button></a>
-                <a href="#menu8" data-toggle="tab"><button>Irrigation Solutions <i class="fa fa-angle-right"></i></button></a>
-                <a href="#menu9" data-toggle="tab"><button>Hard Landscaping <i class="fa fa-angle-right"></i></button></a>
-                <a href="#menu10" data-toggle="tab"><button>External Lighting <i class="fa fa-angle-right"></i></button></a>
-                <a href="#menu11" data-toggle="tab"><button>Water Features<i class="fa fa-angle-right"></i></button></a>
+                <a href="#menu7" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><button>Soft Construction <i class="fa fa-angle-right"></i></button></a>
+                <a href="#menu8" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s"><button>Irrigation Solutions <i class="fa fa-angle-right"></i></button></a>
+                <a href="#menu9" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s"><button>Hard Landscaping <i class="fa fa-angle-right"></i></button></a>
+                <a href="#menu10" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s"><button>External Lighting <i class="fa fa-angle-right"></i></button></a>
+                <a href="#menu11" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s"><button>Water Features<i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>
@@ -371,27 +381,27 @@
 <section class="lastest_news_section_home">
     <div class="container">
         <div class="row">
-            <h3>Lastest News</h3>
-            <p>Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
+            <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Lastest News</h3>
+            <p style="padding-bottom: 20px; text-align:  center;" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
             <div class="col-md-6 news_panel_home_p">
                 <img src="img/news_img-01.png">
-                <div class="date_number">
+                <div class="date_number wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
                     <span>30</span><br>MAY
                 </div>
                 <h5>Emirates Landscape expanding to Dubai</h5>
                 <p>Our existing clients in Abu Dhabi – such as sheikhs, hotel chains, main contactors, consultants etc. have often requested quotations for their Landscape & Irrigation Projects in Dubai – either regarding construction of new areas or operation & maintenance of an existing project, as we are renowned for our quality and reliability.</p>
                 <p>We are aware of the fact that competition in Dubai is challenging, but the total market has a substantial potential so we are confident that we shall succeed in Dubai.</p>
-                <button>Read More</button>
+                <button class="wow fadeInUp hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".3s">Read More</button>
             </div>
             <div class="col-md-6 news_panel_home_p">
                 <img src="img/news_img-01.png">
-                <div class="date_number">
+                <div class="date_number wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
                     <span>30</span><br>MAY
                 </div>
                 <h5>Emirates Landscape expanding to Dubai</h5>
                 <p>Our existing clients in Abu Dhabi – such as sheikhs, hotel chains, main contactors, consultants etc. have often requested quotations for their Landscape & Irrigation Projects in Dubai – either regarding construction of new areas or operation & maintenance of an existing project, as we are renowned for our quality and reliability.</p>
                 <p>We are aware of the fact that competition in Dubai is challenging, but the total market has a substantial potential so we are confident that we shall succeed in Dubai.</p>
-                <button>Read More</button>
+                <button class="wow fadeInUp hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".3s">Read More</button>
             </div>
         </div>
     </div>

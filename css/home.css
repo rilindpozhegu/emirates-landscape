@@ -257,7 +257,10 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 .lastest_news_section_home {
 	padding: 60px 0px;
 }
-
+.lastest_news_section_home h3 {
+	text-align: center;
+	font-family: 'Montserrat-Bold';
+}
 .lastest_news_section_home img {
 	width: 100%;
 }

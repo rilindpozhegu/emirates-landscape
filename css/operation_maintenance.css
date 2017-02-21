@@ -22,7 +22,9 @@
 	text-align: center;
 	padding: 0px;
 }
-
+.first_section_ndpage img {
+	width: 80%;
+}
 .first_section_ndpage img:hover {
 	opacity: .5;
 	transition: ease-in-out all 0.3s;

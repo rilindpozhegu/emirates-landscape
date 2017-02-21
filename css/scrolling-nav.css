@@ -101,11 +101,14 @@ html {
 .navbar-nav li a {
   font-size: 12px;
   font-family: 'Montserrat-Bold';
-  color: #999999 !important;
+  color: #999999;
+  transition: ease-in-out all 0.2s;
 }
-.navbar-nav li a:hover {
-  color: #C93851 !important;
-}
+/*.navbar-nav li a:hover {
+  background-color: rgba(201, 56, 81, 0.77) !important;
+  color: white !important;
+  transition: ease-in-out all 0.2s;
+}*/
 .nav>li>a {
     position: relative;
     display: block;
