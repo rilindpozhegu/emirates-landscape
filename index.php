@@ -42,7 +42,7 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the <br> growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-        <a href="about"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
+        <a href="about.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
     <!-- Header Mobile -->
@@ -51,7 +51,7 @@
             <div class="row">
                 <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Emirates Landscape LLC</h1>
                 <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the <br> growing demand for high quality construction of outdoor recreation and horticultural facilities.</p>
-                <a href="about"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
+                <a href="about.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
             </div>
         </div>
     </section>
@@ -194,17 +194,17 @@
                 </div>
                 <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                     <img src="img/facts_icons/fa_icon2-01.svg"><br>
-                        <span class="counter" style="display: inline-block; width: 32%">993</span>
+                        <span class="counter" style="display: inline-block; width: 32%">118</span>
                     <p>PREVIOUS PROJECTS</p>
                 </div>
                 <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <img src="img/facts_icons/fa_icon3-01.svg"><br>
-                        <span class="counter" style="display: inline-block; width: 32%">500</span>
+                        <span class="counter" style="display: inline-block; width: 32%">79</span>
                     <p>CLIENTS IN TOTAL</p>
                 </div>
                 <div class="col-md-2 col-xs-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
                     <img src="img/facts_icons/fa_icon4-01.svg"><br>
-                       <span style="display: inline-block; width: 32%"><span class="counter">60</span><span>%</span></span> 
+                       <span style="display: inline-block; width: 32%"><span class="counter">84</span><span>%</span></span> 
                     <p>CLIENT RETURN RATE</p>
                 </div>
                 <div class="col-md-2"></div>
@@ -218,6 +218,7 @@
 
     <section class="selection_section_home">
         <div class="container">
+        <h1  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Operations and Maintenance</h1>
             <div class="row">
               <div class="tab-content">
                 <div id="menu1" class="tab-pane fade in active">
@@ -276,30 +277,42 @@
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
                     <img src="img/selection_h/secletion6-01.png">
                   </div>
-                </div>  
+                </div>                 
+                <div id="menu7" class="tab-pane fade in">
+                <div class=" col-md-7">
+                  <h3>Total Landscaping Solutions</h3>
+                  <p>Annual flowers have to be replaced frequently in order to ensure optimum flowering throughout the year.</p>
+                  </div>
+                  <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
+                    <img src="img/selection_h/secletion6-01.png">
+                  </div>
+                </div>   
               </div>
             </div>
 
             <div class="tab_buttons_home col-md-12 col-xs-12 no_padding" style="padding-top: 20px;">
             
-                <div class="col-md-4 small_padding_left">
+                <div class="col-md-3 small_padding_left">
                     <a href="#menu1" data-toggle="tab" class="active  wow zoomIn" data-wow-duration="1s" data-wow-delay="0.6s"><button>Irrigation <i class="fa fa-angle-right"></i></button></a>           
                 </div>
-                <div class="col-md-4 small_padding_left">
+                <div class="col-md-3 small_padding_left">
                     <a href="#menu2" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s"><button>Lawns <i class="fa fa-angle-right"></i></button></a>
                 </div>
-                <div class="col-md-4 small_padding_left">                                   
+                <div class="col-md-3 small_padding_left">                                   
                     <a href="#menu3" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s"><button>Hedges, Shrubs & Trees <i class="fa fa-angle-right"></i></button></a>   
                 </div>
-                <div class="col-md-4 small_padding_left">                       
+                <div class="col-md-3 small_padding_left">                       
                     <a href="#menu4" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Palms <i class="fa fa-angle-right"></i></button></a>           
                 </div>
-                <div class="col-md-4 small_padding_left">    
+                <div class="col-md-3 small_padding_left">    
                     <a href="#menu5" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Ground Covers <i class="fa fa-angle-right"></i></button></a>           
                 </div>
-                <div class="col-md-4 small_padding_left">    
+                <div class="col-md-3 small_padding_left">    
                     <a href="#menu6" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Flowers <i class="fa fa-angle-right"></i></button></a>      
-                </div>   
+                </div>                  
+                <div class="col-md-3 small_padding_left">    
+                    <a href="#menu7" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Total Landscaping Solutions <i class="fa fa-angle-right"></i></button></a>      
+                </div>  
             </div>
     </section>
 
@@ -364,6 +377,14 @@
             </div>
             </div>
 
+            <div id="menu12" class="tab-pane fade in">      
+            <div class="col-md-7">
+                <h4>Construction</h4>
+                <h1>Construction</h1>
+                <p>Need Text For this section!</p>
+            </div>
+            </div>
+
         </div>    
             <div class="col-md-5">
                 <a href="#menu7" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><button>Soft Construction <i class="fa fa-angle-right"></i></button></a>
@@ -371,6 +392,7 @@
                 <a href="#menu9" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s"><button>Hard Landscaping <i class="fa fa-angle-right"></i></button></a>
                 <a href="#menu10" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s"><button>External Lighting <i class="fa fa-angle-right"></i></button></a>
                 <a href="#menu11" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s"><button>Water Features<i class="fa fa-angle-right"></i></button></a>
+                <a href="#menu12" data-toggle="tab" class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s"><button>Construction<i class="fa fa-angle-right"></i></button></a>
             </div>
         </div>
     </div>

@@ -3624,6 +3624,13 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
  	padding: 50px 0px;
 }
 
+.selection_section_home h1 {
+	font-family: 'Montserrat-Bold';
+    color: #4D4E4E;
+    margin-bottom: 27px;
+    text-align: center;
+}
+
 .selection_section_home img {
 	width: 100%;
 	padding-top: 30px;
@@ -4280,10 +4287,15 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 .references_small_panel h4 {
 	padding: 0px 10px;
 	font-family: 'Montserrat-Bold';
-	font-size: 16px;
+	font-size: 14px;
 }
-
-.references_small_panel hr { 
+.references_small_panel p {
+	margin-bottom: 3px;
+}
+.references_small_panel span {
+	font-family: 'Montserrat-Bold';
+}
+.references_small_panel hr {  
   border: 0; 
   border-style: solid; 
   border-color: #D7A74B; 

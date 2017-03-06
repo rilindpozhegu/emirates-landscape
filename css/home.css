@@ -99,6 +99,13 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
  	padding: 50px 0px;
 }
 
+.selection_section_home h1 {
+	font-family: 'Montserrat-Bold';
+    color: #4D4E4E;
+    margin-bottom: 27px;
+    text-align: center;
+}
+
 .selection_section_home img {
 	width: 100%;
 	padding-top: 30px;

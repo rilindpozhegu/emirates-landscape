@@ -40,7 +40,7 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Click "Read more" to find futher information and photos from the project. </p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
+        <a href="contact_page.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
         <!-- Header Mobile -->
@@ -49,7 +49,7 @@
             <div class="row">
               <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Latest News</h1>
             <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Click "Read more" to find futher information and photos from the project.  </p>
-            <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Projects</button></a>
+        <a href="contact_page.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
             </div>
         </div>
     </section>

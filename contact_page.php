@@ -37,18 +37,18 @@
 
   <!-- Text Inside Slider -->
     <div class="logo-slider-over col-md-12 container mobile-d-n">
-        <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Company Introduction</h1>
+        <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">GET IN TOUCH WITH US</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand<br>for high quality construction of outdoor recreation and horticultural facilities.</p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact Us</button></a>
+        <a href="contact_page.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
         <!-- Header Mobile -->
     <section class="header_mobile_about desktop-d-n">
         <div class="container">
             <div class="row">
-            <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Company Introduction</h1>
+            <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">GET IN TOUCH WITH US</h1>
             <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Emirates Landscape LLC is a landscaping and irrigation company and was set up to meet the growing demand<br>for high quality construction of outdoor recreation and horticultural facilities.</p>
-            <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact Us</button></a>
+        <a href="contact_page.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
             </div>
         </div>
     </section>
@@ -107,8 +107,8 @@
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
                             <h5>Jesper Ole Wieslander Madsen</h5>
                             <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <a  data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:jom@hededanmark.dk" style="text-decoration: none !important; color: black;"><p><span>E:</span> jom@hededanmark.dk</p></a>            
+                            <p><span>T:</span> 050 83 44 122</p>
                         </div>
                     </div>
                 </div>
@@ -117,13 +117,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img2-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Ivan Jankovic</h5>
+                            <p>Senior Project Manager</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:ivan@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> ivan@emirateslandscape.com </p></a>
+                            <p><span>T:</span> 050 61 68 279</p>
                         </div>
                     </div>
                 </div>
@@ -132,13 +132,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img3-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Miljan Bondzic</h5>
+                            <p>Senior Project Manager</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:miljan@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> miljan@emirateslandscape.com </p></a>            
+                            <p><span>T:</span> 050 11 12 834</p>
                         </div>
                     </div>
                 </div>
@@ -147,13 +147,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img4-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Firas Monther</h5>
+                            <p>Senior Project Manage</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:miljan@firas@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> firas@emirateslandscape.com</p></a>            
+                            <p><span>T:</span> 050 40 47 543</p>
                         </div>
                     </div>
                 </div>
@@ -162,13 +162,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img5-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Paul Davis</h5>
+                            <p>Head of Estimation</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:miljan@pauldavis@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> pauldavis@emirateslandscape.com</p></a>            
+                            <p><span>T:</span> 050 81 88 679</p>
                         </div>
                     </div>
                 </div>
@@ -177,13 +177,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img6-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Mamoun Al Kaseem</h5>
+                            <p>HR Manager</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:mamoun@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> mamoun@emirateslandscape.com</p></a>           
+                            <p><span>T:</span> 050 66 69 584</p>
                         </div>
                     </div>
                 </div>
@@ -192,13 +192,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img7-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Alma Macaraig</h5>
+                            <p>Accounts Manager</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:alma@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> alma@emirateslandscape.com</p></a>            
+                            <p><span>T:</span> 050 66 87 735</p>
                         </div>
                     </div>
                 </div>
@@ -207,13 +207,13 @@
                 <div class="managment_panel_main">
                     <div class="managment_panel row">
                         <div class="col-md-3 col-xs-4 no_padding wow zoomIn" data-wow-duration="1s" data-wow-delay=".2s">
-                            <img src="img/managment/managment_img1-01.png">
+                            <img src="img/managment/managment_img8-01.png">
                         </div>
                         <div class="col-md-9 col-xs-8 managment_panel_text wow fadeInLeft" data-wow-duration="1s" data-wow-delay=".2s">
-                            <h5>Jesper Ole Wieslander Madsen</h5>
-                            <p>General Manager</p>
-                            <p><span>E:</span> jom@hededanmark.dk</p>            
-                            <p><span>T:</span> 001 112 223</p>
+                            <h5>Sabeel Kareem</h5>
+                            <p>QHSE Manager</p>
+                            <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:alma@sabeel@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> sabeel@emirateslandscape.com</p></a>            
+                            <p><span>T:</span> 050 81 88 670</p>
                         </div>
                     </div>
                 </div>
@@ -237,6 +237,10 @@
     $( ".maps" ).mouseleave(function() {
       $('.maps iframe').css("pointer-events", "none"); 
     });
+
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
     </script>
 </body>
 

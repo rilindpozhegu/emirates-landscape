@@ -40,7 +40,7 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Operation & Maintenance</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Our services can be tailored to meet your specific requirements. This could be in regard to cleaning of water fountains,<br>pump-room O&M, sweeping of parking areas, collection of litter etc.These tasks add <br>value to the traditional tasks of landscape maintenance.</p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
+        <a href="about.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
     <!-- Header Mobile -->
@@ -49,7 +49,7 @@
             <div class="row">
                <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">Operation & Maintenance</h1>
                 <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">Our services can be tailored to meet your specific requirements. This could be in regard to cleaning of water fountains,<br>pump-room O&M, sweeping of parking areas, collection of litter etc.These tasks add <br>value to the traditional tasks of landscape maintenance.</p>
-                <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
+                <a href="about.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
             </div>
         </div>
     </section>

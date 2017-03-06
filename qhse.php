@@ -40,7 +40,7 @@
     <div class="logo-slider-over col-md-12 container mobile-d-n">
         <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">QHSE Policy & Corporate Objectives</h1>
         <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">In order to achieve the below subjects and ensure all, procedures are developed and performed in the most efficient<br> way, Emirates Landscape LLC is ISO certified with both ISO-9001:2008, ISO-14001:2004 and<br> ISO-18001:2008.</p>
-        <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
+        <a href="contact_page.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
     </div>  
 
         <!-- Header Mobile -->
@@ -49,7 +49,7 @@
             <div class="row">
               <h1 class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".2s">QHSE Policy & Corporate Objectives</h1>
             <p class="wow fadeIn" data-wow-duration="1s" data-wow-delay=".3s">In order to achieve the below subjects and ensure all, procedures are developed and performed in the most efficient<br> way, Emirates Landscape LLC is ISO certified with both ISO-9001:2008, ISO-14001:2004 and<br> ISO-18001:2008.</p>
-            <a href="about_us"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">View Services</button></a>
+        <a href="contact_page.php"><button class="slider-top-button wow bounceIn hover_effect_buttons" data-wow-duration="1s" data-wow-delay=".7s">Contact us</button></a>
             </div>
         </div>
     </section>
@@ -93,7 +93,7 @@
                 <div class="forthp_panel">
                 <h1>05</h1>
                 <p>Ensure human health, occupational safety, environmental protection and quality enhancement to community goodwill by setting objectives and targets.</p>
-                <button class="hover_effect_buttons">Find our Corporate QHSE Objectives.</button>
+                <a href="#nd_section"><button class="hover_effect_buttons" >Find our Corporate QHSE Objectives.</button></a>
                 </div>
             </div>
         </div>
@@ -101,14 +101,14 @@
 </section>
 
 <!-- Second section on the forth page -->
-<section class="second_section_forth">
+<section class="second_section_forth" >
     <div class="container">
         <div class="row">
         <div class="panels_title_fourthpage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
             <h2>Corporate QHSE Objectives</h2>
             <p>Emirates Landscape LLC is committed to achieve the following Quality, Health, Safety and Environmental Objectives:</p>
         </div>    
-            <div class="col-md-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
+            <div class="col-md-4 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s" id="nd_section">
                 <div class="forthp_panel2">
                     <h1>01</h1>
                     <p>To fulfill all aspects of the company’s contracted obligations to the satisfaction of customers.</p>
@@ -161,7 +161,32 @@
     <?php include 'contact_footer_all.php';?>
     <!-- jQuery -->
     <script type="text/javascript" src="build/scripts.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+  // Add smooth scrolling to all links
+  $("a").on('click', function(event) {
 
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 800, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+});
+    </script>
 </body>
 
 </html>
