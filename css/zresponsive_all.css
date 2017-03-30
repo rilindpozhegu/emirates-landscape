@@ -226,7 +226,7 @@ Construction
 
 
 .header_mobile_qhse {
-	background-image: url('../img/slider/slide4-01.png');
+	background-image: url('../img/slider/slide61-01.png');
 	height: 100vh;
 	background-size: cover;
 	background-position: 80% 40%;
@@ -254,7 +254,9 @@ Construction
 	padding: 20px 10px;
 }
 
-
+.first_section_forthp img {
+	width: 100%;
+}
 
 /*
 ///////////////////////////////////////////////////

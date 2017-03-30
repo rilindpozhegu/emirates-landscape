@@ -51,7 +51,7 @@
       </div>
     </div>   
     <div class="item">
-      <img src="img/slider/slide4-01.png" alt="...">
+      <img src="img/slider/slide61-01.png" alt="...">
       <div class="carousel-caption">
       </div>
     </div>   

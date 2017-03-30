@@ -22,7 +22,9 @@
 	background-repeat: no-repeat;
 	padding: 90px 15px;
 }
-
+.first_section_forthp img {
+	width: 80%;
+}
 .forthp_panel {
 	background-color: white;
 	padding: 10px 20px;

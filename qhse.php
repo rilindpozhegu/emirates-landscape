@@ -58,7 +58,7 @@
 <!-- First Section On the Forth page -->
 
 <section class="first_section_forthp">
-    <div class="container">
+    <div class="container"><!-- 
         <div class="row">
             <div class="panels_title_fourthpage wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <h2>QHSE Policy</h2>
@@ -96,6 +96,9 @@
                 <a href="#nd_section"><button class="hover_effect_buttons" >Find our Corporate QHSE Objectives.</button></a>
                 </div>
             </div>
+        </div> -->
+        <div class="col-md-12 no_padding wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" style="text-align: center;">
+            <img src="img/qhse_one-01.png">
         </div>
     </div>
 </section>

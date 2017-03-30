@@ -1,0 +1,49 @@
+.header_innerpages_all {
+	background-image: url('../img/slider/slide1-01.png');
+	height: 700px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+.main_inner_body {
+	padding: 60px 10px;
+	background-color: #F2F2F2;
+}
+.main_inner_body h1 {
+	text-align: center;
+	font-family: 'Montserrat-Bold';
+	margin-bottom: 20px;
+}
+
+.description_panel {
+	background-color: #ccc;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+	background-color: white;
+	height: auto;
+	text-align: center;
+	padding: 30px 10px;
+}
+
+.description_panel h5 {
+	font-size: 20px; 
+	font-family: 'Montserrat-Bold';
+	margin-bottom: 20px;
+}
+
+.description_panel p {
+	font-size: 16px;
+}
+
+.demo-gallery {
+	padding: 50px 5px 40px;
+}
+
+.demo-gallery li {
+	padding-top: 10px;
+}
+
+.small_grid_padding {
+	padding: 5px;
+}

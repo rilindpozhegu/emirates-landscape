@@ -63,194 +63,154 @@
             <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Our Projects</h2>
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Arzana Medical Complex</h4>
+                    <img src="img/innerpage/ritiz_project/image1-01.png">
+                    <h4>Ritz Carlton Abu Dhabi Grand Canal</h4>
                     <hr>
-                    <p>Brand new site and all landscaping was redesigned by Emirates Landscape. New design follows contemporary shape of building and plants are chosen to provide sustainability, greenery and different colors of flowers in all seasons. Lots of hedges make trimming one of the most common maintenance measures.</p>
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Experience the real Middle East landscaping! A lot of curvy landscape shapes, interspersed with grass and groundcovers, number of different shrubs. Amazing but very challenging and demanding for maintenance. </p>
+                    <a href="innerpages/ritiz_project.php"><button>Read More</button></a>
                 </div>
             </div>
             
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="font-size: 13px; margin-bottom: 15px;">Al Wathba Majlis and VIP suites for H. H. Sheikh Mansour Bin Zayed</h4>
+                    <img src="img/innerpage/farimont_project/image1-01.png">
+                    <h4 style="font-size: 13px; margin-bottom: 15px;">Fairmont BAB Al Bahr Hotel, Between the Bridges, Abu Dhabi.</h4>
                     <hr>
-                    <p>12,000 m2 of landscape and irrigation around the Majlis and VIP Suites and the area between them. Access road from the gate to the Majlis and the VIP suites. Landscape lighting for the trees, landscape areas and access road. Car parks with car park shades.</p><br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Simplicity is beautiful! Very unique landscape experience reflected through a very simple rectangular landscape design. Require very frequent trimming and intensive maintenance approach to keep entire setup... </p>
+                    <a href="innerpages/fairmont_bab_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Sweihan Warehouse</h4>
+                    <img src="img/innerpage/shangri_project/image1-01.png">
+                    <h4>Shangri – La Hotel, Apartments and Villas, Between the Bridges, Abu Dhabi.</h4>
                     <hr>
-                    <p>Chain link fence around the Warehouse. All road works in the Warhouse Compound including excavation, levelling, compaction, road base, sub base, excluding asphalt coat.All kerbs and interlocks in the pedestrian areas.</p><br>&nbsp;<br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Experience the real Asian nature with a lot of different palm, trees, shrub species,  combined with Abra channel passing through the Property. Landscape constructed and proudly managed by our...</p>
+                    <a href="innerpages/shangri_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Cleveland Clinic Abu Dhabi</h4>
+                    <img src="img/innerpage/traders_project/image1-01.png">
+                    <h4>Traders Hotel, Between the Bridges, Abu Dhabi</h4>
                     <hr>
-                    <p>Maintenance of the soft landscape and irrigation around the hospital and on the roof top level. Maintenance and cleaning all exterior surfaces around the hospital, including cleaning the roads and pedestrian walkways and cleaning the external furniture, posts, lights and signboards and external staircases...</p>
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Makes a unified whole with Shangri- la Hotel and Apartments. Both Shangri- la and Traders landscape are constructed by Emirates Landscape on more than 70.000 square meters. </p><br>&nbsp;
+                    <a href="innerpages/traders_project.php"><button>Read More</button></a>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
+                <div class="references_small_panel">
+                    <img src="img/innerpage/palm_project/image1-01.png">
+                    <h4 style="margin-bottom: 16px;">Palm Oasis Residential compound, Abu Dhabi</h4>
+                    <hr>
+                    <p>103 villas with different tenants hence different landscape demands! For us, each villa is small project itself as well as community areas. </p><br>&nbsp;<br>&nbsp;
+                    <a href="innerpages/palm_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="margin-bottom: 16px;">Ritz Carlton Abu Dhabi Grand Canal</h4>
+                    <img src="img/innerpage/cleveand_project/image1-01.png">
+                    <h4>Cleveland Clinic, Abu Dhabi</h4>
                     <hr>
-                    <p>Experience the real Middle East landscaping! A lot of curvy landscape shapes, small patches of grass and ground covers, numbers of different shrubs. Amazing, but also very challenging and demanding for maintenance.</p><br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Cleveland Clinic is a Five Stars Hospital located in Al Maryah Island Abu Dhabi. It is also a LEED GOLD constructed and managed building with very high standards related to environment sustainability...</p><br>&nbsp;
+                    <a href="innerpages/cleveand_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Car Park Etihad HQ</h4>
+                    <img src="img/innerpage/arzana_project/image1-01.png">
+                    <h4>Arzana Medical complex</h4>
                     <hr>
-                    <p>Building the car park including excavation and levelling and backfilling with all the kerbs and interlock for driveways and pedestrians. Building 3 ramps connection the new car park to the existing access road. Building 6 staircases for pedestrian access from the building to the new car... </p><br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
-                </div>
-            </div>
-
-            <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Nursery - New Zayed University</h4>
-                    <hr>
-                    <p>Construction of nursery for demonstration / teaching purpose of production combined with sustainable energy supply. The nursery consists of shade structures, digestion / propagation chambers, water tank and training facility rooms. The energy supply comes from a solar pane... </p><br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>With Emirates Landscape on board, landscape was completely redesigned to give new touch to the property. New design follows contemporary shape of building and plants are chosen to provide sustainability...</p><br>&nbsp;
+                    <a href="innerpages/arzana_project.php"><button>Read More</button></a>
                 </div>
             </div>
             
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Khalifa Port</h4>
+                    <img src="img/innerpage/paris_project/image1-01.png">
+                    <h4>Paris Sorbonne University, Al Reem Island, Abu Dhabi</h4>
                     <hr>
-                    <p>Hard and soft landscaping including irrigation plus 162,000 m2 of different types of granit. </p><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Our construction team was successfully executed the landscape construction and our maintenance team proudly running ground and garden maintenance for more than 7 years. Lawns, hedges, groundcovers but also... </p>
+                    <a href="innerpages/paris_project.php"><button>Read More</button></a>
                 </div>
             </div>
 <div class="clearfix"></div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Manarat Al Sadiyat</h4>
+                    <img src="img/innerpage/zayed_project/image1-01.png">
+                    <h4>New Zayed University, Abu Dhabi – Khalifa A</h4>
                     <hr>
-                    <p>One of the most important cultural spots in Abu Dhabi. Lots of events demand specific schedule for landscape works or remodelling of green areas, and Emirates Landscape is following them accordingly. As a public area, it is exposed to the eye of critics at all times and...</p>
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Very specific site that includes not only soft landscape but also hardscape and maintenance of all kind of landscape equipment (benches, lights, water feature, car shades). Site is also equipped with... </p>
+                    <a href="innerpages/zayend_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Paris Sorbonne University</h4>
+                    <img src="img/innerpage/corniche_project/image1-01.png">
+                    <h4>Corniche and Bateen Beach Abu Dhabi </h4>
                     <hr>
-                    <p>Our construction team has successfully executed the landscape construction, and our maintenance team has proudly been running the total outdoor facilities for more than 5 years. Lawns, hedges, ground covers but also fountains, tiles, pathways, roads...</p>
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Most famous and one of the highest footfall public leisure facilities of Abu Dhabi Island. More than 30,000 sqm of lawns daily used for sport activities, picnics, kids playing… which requires high expertise...</p>
+                    <a href="innerpages/corniche_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>New Zayed University</h4>
+                    <img src="img/innerpage/jbr_project/image1-01.png">
+                    <h4>JBR The Beach Dubai</h4>
                     <hr>
-                    <p>Very specific site that includes not only soft landscaping but also hard landscaping and maintenance of all kinds of landscape equipment (benches, lights, water feature, car shades...). Running of bigger machines like road sweepers or boom loader is ...</p><br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>Set against the fresh blue waters of the Arabian Gulf, THE BEACH at 300,000 square feet embodies urban living at it’s sunny best. It’s one of the several most famous and most prominent point of Dubai tourism... </p><br>&nbsp;
+                    <a href="innerpages/jbr_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Traders Hotel</h4>
+                    <img src="img/innerpage/box_project/image1-01.png">
+                    <h4>Box Park Dubai</h4>
                     <hr>
-                    <p>Makes a unified whole with Shangri-La Hotel and Apartments. The landscape of both Shangri-La and Traders is constructed by Emirates Landscape on more than 70,000 square meters...</p><br>&nbsp;<br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>BOXPARK is a mall unlike no other. It doesn’t take over its environment. It’s a part of it. It’s a part of the very urban soul of the city. With limited landscaping opportunities this site requires...</p><br>&nbsp;<br>&nbsp;<br>&nbsp;
+                    <a href="innerpages/box_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="margin-bottom: 15px;">Abu Dhabi Golf Club New Car Park</h4>
+                    <img src="img/innerpage/waldorf_project/image1-01.png">
+                    <h4 style="margin-bottom: 15px;"> Waldorf Astoria Dubai</h4>
                     <hr>
-                    <p>Project management and coordination of the fast track project for the beautification of the VIP entrance at the Abu Dhabi Golf Club in preparation of the International Championship in January 2009. The work involves the construction of decorative walls and water features...</p>
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>As a well proven in 5 star hotels maintenance, EL is awarded with one more jewel of Dubai Laisure Facilities. Jumeirah, stunning Arabian Gulf views and distinctive external architecture. Full comprehensive ...</p>
+                    <a href="innerpages/waldorf_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>TDIC HQ at Khalifa Park</h4>
+                    <img src="img/innerpage/sulltan_project/image1-01.png">
+                    <h4>ABU DHABI PALACE FOR H.H. SHK SULTAN BIN ZAYED AL NAHYAN </h4>
                     <hr>
-                    <p>Made just next to Khalifa Park, this site looks like extension of it. With very formal entrance and lots of hedges, it requires constant trimming and many efforts to keep it tidy and neat. All green areas are always at the high level since the building has been visited daily by many VIP...</p><br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>CLIENT: H. H. Shk Sultan Bin Zayed Al Nahyan Personal Affairs. One of our first environmental friendly sites. Only organic fertilizers and pesticides used in plants culture and protection...</p><br>&nbsp;
+                    <a href="innerpages/sulltan_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="margin-bottom: 15px;">Shangri-La Hotel, villas and appartments</h4>
+                    <img src="img/innerpage/shehik_project/image1-01.png">
+                    <h4 style="margin-bottom: 15px;">AL WATHBA STABLES FOR H.H. SHK MANSOUR BIN ZAYED AL NAHYAN </h4>
                     <hr>
-                    <p>Feel the real Asian nature with a lot of different species combined with Abra channel passing through the property....</p><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
+                    <p>CLIENT: H. H. Shk. Mansour Office. Palace contains its own stables with first class racing horses, camels, other domestic animals and small zoo. All landscape works are adjusted to the demands of...</p>
+                    <a href="innerpages/shehik_project.php"><button>Read More</button></a>
                 </div>
-            </div>
-
-            <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4>Sir Ban Yas Island Hotel</h4>
-                    <hr>
-                    <p>Finished in 2013 the beautiful garden complex surrounding the Sir Ban Yas Island Hotel. The garden contains ground covers, flower beds, palms as well as water features for the enjoyment of guests and staff at the island hotel.</p><br>&nbsp;<br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
-                </div>
-            </div>
-
-            <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="margin-bottom: 15px;">Abu Dhabi Palace for H. H. Sheikh Sultan Bin Zayed Nahyan</h4>
-                    <hr>
-                    <p>One of our first environmental friendly sites. Only organic fertilizers and pesticides used in protection of plants. Client is the Royal family and high demands in daily operation and maintenance are present at all times. With more than 10 ha, this is one of the biggest lawn areas that Emirates Landscape is handling.</p>
-                    <a href="references_project"><button>Read More</button></a>
-                </div>
-            </div>
-
-            <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="margin-bottom: 15px;">Palm Oasis Residential compound</h4>
-                    <hr>
-                    <p>103 villas with different tenants, hence different landscape demands! For us, each villa is a small project itself as well as community areas.</p><br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;
-                    <a href="references_project"><button>Read More</button></a>
-                </div>
-            </div>
-
-            <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <div class="references_small_panel">
-                    <img src="img/references_panel_img-01.png">
-                    <h4 style="margin-bottom: 17px;">Al Wathba stables for H. H. Sheikh Mansour Bin Zayed Al Nahyan</h4>
-                    <hr>
-                    <p>The palace contains its own stables with first class racing horses and small zoo. All landscape works are adjusted to the demands of “chemical free” site since animals shouldn’t be exposed to the chemicals at any times. Maintenance of landscaping works including</p>
-                    <a href="references_project"><button>Read More</button></a>
-                </div>
-            </div>
+            </div>          
 
         </div>
     </div>
