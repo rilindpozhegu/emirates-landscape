@@ -17,6 +17,7 @@
 .references_small_panel {
 	background-color: white;
 	margin: 15px 0px;
+	height: 420px !important;
 }
 
 .references_small_panel img {
@@ -36,7 +37,7 @@
 }
 .references_small_panel hr {  
   border: 0; 
-  border-style: solid; 
+  border-style: solid;  
   border-color: #D7A74B; 
   border-width: 2px 0 0 0; 
   width: 30%;

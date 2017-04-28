@@ -63,7 +63,7 @@
             <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Our Projects</h2>
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/ritiz_project/image1-01.png">
+                    <img src="img/innerpage/ritiz_project/image12-01.png">
                     <h4>Ritz Carlton Abu Dhabi Grand Canal</h4>
                     <hr>
                     <p>Experience the real Middle East landscaping! A lot of curvy landscape shapes, interspersed with grass and groundcovers, number of different shrubs. Amazing but very challenging and demanding for maintenance. </p>
@@ -73,7 +73,7 @@
             
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/farimont_project/image1-01.png">
+                    <img src="img/innerpage/farimont_project/image12-01.png">
                     <h4 style="font-size: 13px; margin-bottom: 15px;">Fairmont BAB Al Bahr Hotel, Between the Bridges, Abu Dhabi.</h4>
                     <hr>
                     <p>Simplicity is beautiful! Very unique landscape experience reflected through a very simple rectangular landscape design. Require very frequent trimming and intensive maintenance approach to keep entire setup... </p>
@@ -83,7 +83,7 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/shangri_project/image1-01.png">
+                    <img src="img/innerpage/shangri_project/image12-01.png">
                     <h4>Shangri – La Hotel, Apartments and Villas, Between the Bridges, Abu Dhabi.</h4>
                     <hr>
                     <p>Experience the real Asian nature with a lot of different palm, trees, shrub species,  combined with Abra channel passing through the Property. Landscape constructed and proudly managed by our...</p>
@@ -93,7 +93,7 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/traders_project/image1-01.png">
+                    <img src="img/innerpage/traders_project/image12-01.png">
                     <h4>Traders Hotel, Between the Bridges, Abu Dhabi</h4>
                     <hr>
                     <p>Makes a unified whole with Shangri- la Hotel and Apartments. Both Shangri- la and Traders landscape are constructed by Emirates Landscape on more than 70.000 square meters. </p><br>&nbsp;
@@ -103,7 +103,7 @@
             <div class="clearfix"></div>
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/palm_project/image1-01.png">
+                    <img src="img/innerpage/palm_project/image12-01.png">
                     <h4 style="margin-bottom: 16px;">Palm Oasis Residential compound, Abu Dhabi</h4>
                     <hr>
                     <p>103 villas with different tenants hence different landscape demands! For us, each villa is small project itself as well as community areas. </p><br>&nbsp;<br>&nbsp;
@@ -113,17 +113,17 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/cleveand_project/image1-01.png">
+                    <img src="img/innerpage/cleveand_project/image12-01.png">
                     <h4>Cleveland Clinic, Abu Dhabi</h4>
                     <hr>
-                    <p>Cleveland Clinic is a Five Stars Hospital located in Al Maryah Island Abu Dhabi. It is also a LEED GOLD constructed and managed building with very high standards related to environment sustainability...</p><br>&nbsp;
+                    <p>Cleveland Clinic is a Five Stars Hospital located in Al Maryah Island Abu Dhabi. It is also a LEED GOLD constructed and managed building with very high standards related to environment sustainability...</p><br>&nbsp;<br>&nbsp;
                     <a href="innerpages/cleveand_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/arzana_project/image1-01.png">
+                    <img src="img/innerpage/arzana_project/image12-01.png">
                     <h4>Arzana Medical complex</h4>
                     <hr>
                     <p>With Emirates Landscape on board, landscape was completely redesigned to give new touch to the property. New design follows contemporary shape of building and plants are chosen to provide sustainability...</p><br>&nbsp;
@@ -133,7 +133,7 @@
             
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/paris_project/image1-01.png">
+                    <img src="img/innerpage/paris_project/image12-01.png">
                     <h4>Paris Sorbonne University, Al Reem Island, Abu Dhabi</h4>
                     <hr>
                     <p>Our construction team was successfully executed the landscape construction and our maintenance team proudly running ground and garden maintenance for more than 7 years. Lawns, hedges, groundcovers but also... </p>
@@ -144,17 +144,17 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/zayed_project/image1-01.png">
+                    <img src="img/innerpage/zayed_project/image12-01.png">
                     <h4>New Zayed University, Abu Dhabi – Khalifa A</h4>
                     <hr>
-                    <p>Very specific site that includes not only soft landscape but also hardscape and maintenance of all kind of landscape equipment (benches, lights, water feature, car shades). Site is also equipped with... </p>
+                    <p>Very specific site that includes not only soft landscape but also hardscape and maintenance of all kind of landscape equipment (benches, lights, water feature, car shades). Site is also equipped with... </p><br>&nbsp;
                     <a href="innerpages/zayend_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/corniche_project/image1-01.png">
+                    <img src="img/innerpage/corniche_project/image12-01.png">
                     <h4>Corniche and Bateen Beach Abu Dhabi </h4>
                     <hr>
                     <p>Most famous and one of the highest footfall public leisure facilities of Abu Dhabi Island. More than 30,000 sqm of lawns daily used for sport activities, picnics, kids playing… which requires high expertise...</p>
@@ -164,7 +164,7 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/jbr_project/image1-01.png">
+                    <img src="img/innerpage/jbr_project/image12-01.png">
                     <h4>JBR The Beach Dubai</h4>
                     <hr>
                     <p>Set against the fresh blue waters of the Arabian Gulf, THE BEACH at 300,000 square feet embodies urban living at it’s sunny best. It’s one of the several most famous and most prominent point of Dubai tourism... </p><br>&nbsp;
@@ -174,17 +174,18 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/box_project/image1-01.png">
+                    <img src="img/innerpage/box_project/image12-01.png">
                     <h4>Box Park Dubai</h4>
                     <hr>
-                    <p>BOXPARK is a mall unlike no other. It doesn’t take over its environment. It’s a part of it. It’s a part of the very urban soul of the city. With limited landscaping opportunities this site requires...</p><br>&nbsp;<br>&nbsp;<br>&nbsp;
+                    <p>BOXPARK is a mall unlike no other. It doesn’t take over its environment. It’s a part of it. It’s a part of the very urban soul of the city. With limited landscaping opportunities this site requires...</p><br>&nbsp;<br>&nbsp;
                     <a href="innerpages/box_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
+<div class="clearfix"></div>
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/waldorf_project/image1-01.png">
+                    <img src="img/innerpage/waldorf_project/image12-01.png">
                     <h4 style="margin-bottom: 15px;"> Waldorf Astoria Dubai</h4>
                     <hr>
                     <p>As a well proven in 5 star hotels maintenance, EL is awarded with one more jewel of Dubai Laisure Facilities. Jumeirah, stunning Arabian Gulf views and distinctive external architecture. Full comprehensive ...</p>
@@ -194,17 +195,17 @@
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/sulltan_project/image1-01.png">
+                    <img src="img/innerpage/sulltan_project/image12-01.png">
                     <h4>ABU DHABI PALACE FOR H.H. SHK SULTAN BIN ZAYED AL NAHYAN </h4>
                     <hr>
-                    <p>CLIENT: H. H. Shk Sultan Bin Zayed Al Nahyan Personal Affairs. One of our first environmental friendly sites. Only organic fertilizers and pesticides used in plants culture and protection...</p><br>&nbsp;
+                    <p>CLIENT: H. H. Shk Sultan Bin Zayed Al Nahyan Personal Affairs. One of our first environmental friendly sites. Only organic fertilizers and pesticides used in plants culture and protection...</p>
                     <a href="innerpages/sulltan_project.php"><button>Read More</button></a>
                 </div>
             </div>
 
             <div class="col-md-3 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                 <div class="references_small_panel">
-                    <img src="img/innerpage/shehik_project/image1-01.png">
+                    <img src="img/innerpage/shehik_project/image12-01.png">
                     <h4 style="margin-bottom: 15px;">AL WATHBA STABLES FOR H.H. SHK MANSOUR BIN ZAYED AL NAHYAN </h4>
                     <hr>
                     <p>CLIENT: H. H. Shk. Mansour Office. Palace contains its own stables with first class racing horses, camels, other domestic animals and small zoo. All landscape works are adjusted to the demands of...</p>

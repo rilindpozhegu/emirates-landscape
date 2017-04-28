@@ -3627,8 +3627,15 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 .selection_section_home h1 {
 	font-family: 'Montserrat-Bold';
     color: #4D4E4E;
-    margin-bottom: 27px;
+    margin-bottom: 0px;
     text-align: center;
+}
+
+.selection_section_home h2 {
+	color: #4D4E4E;
+	font-size: 25px;
+    margin-bottom: 27px;
+    text-align: center;	
 }
 
 .selection_section_home img {
@@ -4330,6 +4337,7 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 .references_small_panel {
 	background-color: white;
 	margin: 15px 0px;
+	height: 420px !important;
 }
 
 .references_small_panel img {
@@ -4349,7 +4357,7 @@ url('../img/backgorund/facts_bg-01.png');     /*background-position: center;*/
 }
 .references_small_panel hr {  
   border: 0; 
-  border-style: solid; 
+  border-style: solid;  
   border-color: #D7A74B; 
   border-width: 2px 0 0 0; 
   width: 30%;
@@ -4521,6 +4529,7 @@ Responsive Part
 }
 .carousel-inner img {
 	width: 100%;
+    /*filter: blur(2px);*/
 }
 
 .carousel-indicators {
@@ -4575,7 +4584,7 @@ Responsive Part
 
 .logo-slider-over {
     position: absolute;
-    top:35%;
+    top:32%;
     text-align: center !important;
     font-family: 'Montserrat';
     z-index: 0;

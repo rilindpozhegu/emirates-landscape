@@ -101,37 +101,42 @@
             <p>A great project requires great maintenance</p>
         </div>
             <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                <img src="img/selection_h/secletion1-01.png">
+                <img src="img/selection_h/Irrigation-01.JPG">
                 <h3>Irrigation</h3>
-                <p>Operation of the irrigation system is an important task due to the climate.</p>
-                <p>But irrigation operation includes more than just opening and closing the water flow. The adjustment of sprinklers and monitoring of water consumption are also among important services.</p>
+                <p>This is more than managing water flow and preventing leaks; using advanced techniques and technology, Emirates Landscape can reduce your water consumption by up to 60%.</p>
             </div>
             <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                <img src="img/selection_h/secletion2-01.png">
+                <img src="img/selection_h/Lawns Pic.jpg">
                 <h3>Lawns</h3>
-                <p>Operation of the irrigation system is an important task due to the climate.</p>
-                <p>But irrigation operation includes more than just opening and closing the water flow. The adjustment of sprinklers and monitoring of water consumption are also among important services.</p>
+                <p>Always wanted that luscious green carpet of grass? Through use of advanced maintenance applications such as verticutting, top dressing and feeding your grass with a highly nutritious slow releasing fertilizer; your dream is within reach at Emirates Landscape.</p>
             </div>
             <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                <img src="img/selection_h/secletion3-01.png">
+                <img src="img/selection_h/Hedges, Shrubs & Trees-01.jpg">
                 <h3>Hedges, Shrubs & Trees</h3>
-                <p>Each species has its own type of trimming or pruning to give the best appearance and flowering.</p>
+                <p>There is more than meets the eye when working with these plants and trees, with our ‘green fingered’ teams we will turn your hedges, shrubs and trees into statements on any property.</p>
             </div>
             <div class="clearfix"></div>
             <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                <img src="img/selection_h/secletion3-01.png">
+                <img src="img/selection_h/Palms-01.jpg">
                 <h3>Palms</h3>
-                <p>Palms have always been an important element of the landscape in the region. Not only because of the iconic shape but also the supply of dates.</p>
-            </div>
-            <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s"">
-                <img src="img/selection_h/secletion5-01.png">
-                <h3>Ground Covers</h3>
-                <p>Different species require different maintenance.</p>
+                <p>Palms have always been an important element of landscaping in the region, not only because of their iconic shape, but also because of their supply of dates, which if you so choose we will be able to assist you in the production of organic dates.</p>
+                <p>Other than date palms there are several varying varieties available in the area, for which we are well qualified and competent to maintain.</p>
             </div>
             <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
-                <img src="img/selection_h/secletion6-01.png">
+                <img src="img/selection_h/secletion6-01.jpg">
+                <h3>Total Landscaping Solutions</h3>
+                <p>Emirates Landscape can turn your dreams into reality, whilst ensuring best quality at affordable prices. We are also qualified in looking after and installing hard landscape, water features, cleaning and maintenance of car parks, garden light and shade installation. Our overall concept and vision is to work towards, achieving and maintaining reducedemissions, minimal noise, water saving solutions and much more, with the goal of achieving a greener and more sustainable environment for all.</p>
+            </div>
+            <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".8s">
+                <img src="img/selection_h/Flowers-01.jpg">
                 <h3>Flowers</h3>
-                <p>Annual flowers have to be replaced frequently in order to ensure optimum flowering throughout the year.</p>
+                <p>Be our guest in our nursery and choose from our wide selection of ground covers which will make the perfect trim, with bells and whistles for the final touches to your flower beds. We will be more than happy to guide you in the right direction whether you are seeking seasonal or permanent solutions for your gardens.</p>
+            </div>
+            <div class="clearfix"></div>            
+            <div class="col-md-4 nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".7s"">
+                    <img src="img/selection_h/Groundcovers.jpg">
+                <h3>Ground Covers</h3>
+                <p>Different species require different maintenance.</p>
             </div>
         </div>
     </div>

@@ -65,7 +65,7 @@
                     <h3 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Welcome to <br> Emirates Landscape.</h3>
                     <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">It is a privilege for me to welcome you to our world of landscaping. Being established in the year 2000, we are now the product of always striving to be the best. Every day has its new challenges, and we take nothing for granted. Our team is dedicated and consists of experienced staff with different educational background (horticulture, irrigation, civil engineering, etc.) in order to serve you in the best professional way.</p>
 
-                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Hope you will find all necessary information in this Company Profile – and let us know how we can comply with your specific requirement! It’s all about people!</p>
+                    <p class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">Hope you will find all necessary information in this website – and let us know how we can comply with your specific requirement! It’s all about people!</p>
                 </div>
                 <div class="col-md-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
                     <img src="img/home_img1-01.png">
@@ -219,44 +219,44 @@
     <section class="selection_section_home">
         <div class="container">
         <h1  class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">Operations and Maintenance</h1>
+        <h2 class="wow fadeInUp" data-wow-duration="1s" data-wow-delay=".25s">Great project requires great maintenance</h2>
             <div class="row">
               <div class="tab-content">
-                <div id="menu1" class="tab-pane fade in active">
+                <div id="menu1" class="tab-pane fade in">
                 <div class=" col-md-7">
                   <h3>Irrigation</h3>
-                  <p>Operation of the irrigation system is an important task due to the climate.<br>
-                    But irrigation operation includes more than just opening and closing the water flow. The adjustment of sprinklers and monitoring of water consumption are also among important services.
+                  <p>This is more than managing water flow and preventing leaks; using advanced techniques and technology, Emirates Landscape can reduce your water consumption by up to 60%.
                   </p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion1-01.png">
+                    <img src="img/selection_h/Irrigation-01.JPG">
                   </div>
                 </div>
                 <div id="menu2" class="tab-pane fade in">
                 <div class=" col-md-7">
                   <h3>Lawns</h3>
-                  <p>Operation of the irrigation system is an important task due to the climate. <br> But irrigation operation includes more than just opening and closing the water flow. The adjustment of sprinklers and monitoring of water consumption are also among important services.</p>
+                  <p>Always wanted that luscious green carpet of grass? Through use of advanced maintenance applications such as verticutting, top dressing and feeding your grass with a highly nutritious slow releasing fertilizer; your dream is within reach at Emirates Landscape.</p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion2-01.png">
+                    <img src="img/selection_h/Lawns Pic.jpg">
                   </div>
                 </div> 
                 <div id="menu3" class="tab-pane fade in">
                 <div class=" col-md-7">
                   <h3>Hedges, Shrubs & Trees</h3>
-                  <p>Each species has its own type of trimming or pruning to give the best appearance and flowering.</p>
+                  <p>There is more than meets the eye when working with these plants and trees, with our ‘green fingered’ teams we will turn your hedges, shrubs and trees into statements on any property.</p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion3-01.png">
+                    <img src="img/selection_h/Hedges, Shrubs & Trees-01.jpg">
                   </div>
                 </div>  
                 <div id="menu4" class="tab-pane fade in">
                 <div class=" col-md-7">
                   <h3>Palms</h3>
-                  <p>Palms have always been an important element of the landscape in the region. Not only because of the iconic shape but also the supply of dates.</p>
+                  <p>Palms have always been an important element of landscaping in the region, not only because of their iconic shape, but also because of their supply of dates, which if you so choose we will be able to assist you in the production of organic dates.Other than date palms there are several varying varieties available in the area, for which we are well qualified and competent to maintain.</p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion4-01.png">
+                    <img src="img/selection_h/Palms-01.jpg">
                   </div>
                 </div>              
 
@@ -266,32 +266,36 @@
                   <p>Different species require different maintenance.</p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion5-01.png">
+                    <img src="img/selection_h/Groundcovers.jpg">
                   </div>
                 </div>  
                 <div id="menu6" class="tab-pane fade in">
                 <div class=" col-md-7">
                   <h3>Flowers</h3>
-                  <p>Annual flowers have to be replaced frequently in order to ensure optimum flowering throughout the year.</p>
+                  <p>Be our guest in our nursery and choose from our wide selection of ground covers which will make the perfect trim, with bells and whistles for the final touches to your flower beds. We will be more than happy to guide you in the right direction whether you are seeking seasonal or permanent solutions for your gardens.</p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion6-01.png">
+                    <img src="img/selection_h/Flowers-01.jpg">
                   </div>
                 </div>                 
-                <div id="menu7" class="tab-pane fade in">
+                <div id="menu7" class="tab-pane fade in active">
                 <div class=" col-md-7">
                   <h3>Total Landscaping Solutions</h3>
-                  <p>Annual flowers have to be replaced frequently in order to ensure optimum flowering throughout the year.</p>
+                  <p>Emirates Landscape can turn your dreams into reality, whilst ensuring best quality at affordable prices. We are also qualified in looking after and installing hard landscape, water features, cleaning and maintenance of car parks, garden light and shade installation. Our overall concept and vision is to work towards, achieving and maintaining reduced emissions, minimal noise, water saving solutions and much more, with the goal of achieving a greener and more sustainable environment for all.</p>
                   </div>
                   <div class="col-md-5 mobile-d-n" id="menu1" data-wow-duration="1s" data-wow-delay=".2s">
-                    <img src="img/selection_h/secletion6-01.png">
+                    <img src="img/selection_h/secletion6-01.jpg">
                   </div>
                 </div>   
               </div>
             </div>
 
             <div class="tab_buttons_home col-md-12 col-xs-12 no_padding" style="padding-top: 20px;">
-            
+                          
+                <div class="col-md-3 small_padding_left">    
+                    <a href="#menu7" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Total Landscaping Solutions <i class="fa fa-angle-right"></i></button></a>      
+                </div>  
+
                 <div class="col-md-3 small_padding_left">
                     <a href="#menu1" data-toggle="tab" class="active  wow zoomIn" data-wow-duration="1s" data-wow-delay="0.6s"><button>Irrigation <i class="fa fa-angle-right"></i></button></a>           
                 </div>
@@ -309,10 +313,7 @@
                 </div>
                 <div class="col-md-3 small_padding_left">    
                     <a href="#menu6" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Flowers <i class="fa fa-angle-right"></i></button></a>      
-                </div>                  
-                <div class="col-md-3 small_padding_left">    
-                    <a href="#menu7" data-toggle="tab" class=" wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s"><button>Total Landscaping Solutions <i class="fa fa-angle-right"></i></button></a>      
-                </div>  
+                </div>    
             </div>
     </section>
 

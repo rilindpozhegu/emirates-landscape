@@ -12,6 +12,7 @@
 }
 .carousel-inner img {
 	width: 100%;
+    /*filter: blur(2px);*/
 }
 
 .carousel-indicators {
@@ -66,7 +67,7 @@
 
 .logo-slider-over {
     position: absolute;
-    top:35%;
+    top:32%;
     text-align: center !important;
     font-family: 'Montserrat';
     z-index: 0;

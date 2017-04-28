@@ -16,7 +16,10 @@
                         <a class="#" href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="active1 hover_effect" href="index.php">HOME</a>
+                        <a class="active1 hover_effect" href="http://www.emirateslandscape.com">HOME</a>
+                    </li>
+                    <li>
+                        <a class="active8 hover_effect" href="about_us.php">ABOUT US</a>
                     </li>
                     <li>
                         <a class="active2 hover_effect" href="operation-and-maintenance.php">OPERATION AND MAINTENANCE</a>
@@ -34,7 +37,7 @@
                         <a class="active6 hover_effect" href="news.php">NEWS</a>
                     </li>
                     <li>
-                        <a class="active7 hover_effect" href="contact_page.php">CONTACT US</a>
+                        <a class="active7 hover_effect" href="contact_page.php">GET IN TOUCH</a>
                     </li>
                 </ul>
             </div>

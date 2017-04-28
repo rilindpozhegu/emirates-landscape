@@ -94,24 +94,24 @@
             <p>Each project will get our individual attention and our goal is to ensure that every one of these projects will <br> have a unique and original quality that only gets better with time.</p>
         </div>
             <div class="col-md-4 second_section_thirdp_panel nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
-                <img src="img/construction_img1-01.png">
+                <img src="img/construction_img11-01.png">
                 <h3>Soft Landscaping</h3>
                 <p>Our experienced team will execute your project using only plants of excellent quality.</p>
             </div>
             <div class="col-md-4 second_section_thirdp_panel nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                <img src="img/construction_img2-01.png">
+                <img src="img/construction_img4-01.png">
                 <h3>Irrigation Solutions</h3>
                 <p>With highly skilled engineers and supervisors, you can expect the optimum irrigation solution whether it is a manual or automatic system that suits your plants' needs and daily water requirement, keeping them healthy and strong throughout the year.</p>
             </div>
             <div class="col-md-4 second_section_thirdp_panel nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".5s">
-                <img src="img/construction_img3-01.png">
+                <img src="img/construction_img21-01.png">
                 <h3>Hard Landscaping</h3>
                 <p>Our Hard Landscape teams are able to adapt to your requirements and will successfully bring your project to completion with the best quality that exceeds your expectation.</p>
             </div>
             <div class="clearfix"></div>
             <div class="col-md-2"></div>
             <div class="col-md-4 second_section_thirdp_panel nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                <img src="img/construction_img4-01.png">
+                <img src="img/construction_img31-01.png">
                 <h3>External Lighting</h3>
                 <p>No garden is complete without the special effect light contributes. Emirates Landscape will provide you with just what your garden requires to add that touch of class.</p>
             </div>
