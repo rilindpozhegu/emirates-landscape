@@ -136,7 +136,7 @@
                             <h5>Andre Mulder</h5>
                             <p>Business Development Manager</p>
                             <a data-toggle="tooltip" data-placement="bottom" title="Direct Email" href="mailto:andremulder@emirateslandscape.com" style="text-decoration: none !important; color: black;"><p><span>E:</span> andremulder@emirateslandscape.com</p></a>            
-                            <p><span>T:</span> 050 81 88 679</p>
+                            <!-- <p><span>T:</span> 050 81 88 679</p> -->
                         </div>
                     </div>
                 </div>

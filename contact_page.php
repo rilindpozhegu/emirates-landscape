@@ -65,6 +65,7 @@
                 <p style="font-size: 18px;"><b>Phone:</b> +971 26744777</p>
                 <p style="font-size: 18px;"><b>Fax:</b> +971 26722555 </p>
                 <p style="font-size: 18px;"><b>Email:</b> info@emirateslandscape.com </p>
+                <p style="font-size: 18px;"><b>Address:</b> The Galleries Building 4, 4th floor, Office No 416 Downtown Jebel Ali</p>
             </div>
             <div class="col-md-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">
                 <img src="img/sekretarja-01.jpg">
@@ -81,7 +82,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 maps wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12212.138813226735!2d54.368575942754646!3d24.496175194809222!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e665bc54714ed%3A0x6d680568741f9511!2sEmirates+Landscape+LLC!5e0!3m2!1sen!2s!4v1487501120289" width="100%;" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d20857.165632071912!2d55.09796448629915!3d24.974658004741972!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f0d8030d966c9%3A0x8e63ffd75684f318!2sThe+Galleries+Building+4!5e0!3m2!1sen!2sae!4v1493546676775" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 <p>Emirates Landscape - Dubai Office</p>
             </div>
             <div class="col-md-6 maps wow fadeInUp" data-wow-duration="1s" data-wow-delay=".3s">

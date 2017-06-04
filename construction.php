@@ -99,7 +99,7 @@
                 <p>Our experienced team will execute your project using only plants of excellent quality.</p>
             </div>
             <div class="col-md-4 second_section_thirdp_panel nd_page_img_panel wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                <img src="img/construction_img4-01.png">
+                <img src="img/ujitje-01.png">
                 <h3>Irrigation Solutions</h3>
                 <p>With highly skilled engineers and supervisors, you can expect the optimum irrigation solution whether it is a manual or automatic system that suits your plants' needs and daily water requirement, keeping them healthy and strong throughout the year.</p>
             </div>
