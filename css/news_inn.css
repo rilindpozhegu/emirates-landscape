@@ -1,0 +1,16 @@
+.main_news_innerpage_s1 {
+    padding: 7% 6%;
+    background: white !important;
+    margin-top: -8.5%;
+}
+.main_news_innerpage_s1 h2 {
+	font-family: 'Montserrat-Bold';
+    text-align: left;
+    padding-bottom: 30px;
+}
+.main_news_innerpage_s1 p {
+	font-size: 15px;
+}
+.text_insidenews_in {
+	padding-top: 4%;
+}
